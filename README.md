@@ -15,6 +15,7 @@ This is an unofficial update of PhileasFogg mod which can be found on the [Ludeo
 
 # Overhaul of existing and addition of new diseases
 This section is by far the biggest part of this mod. I changed every single disease in the game. Not in their fundamental principles. But they all now have some randomness factor. This way it depends not only on your pawns ability to shake a disease off. It is more ... how to say this? ... natural. One pawn gets a heavy case of flu, the other only a light infection.
+
 Diseases now also aren't only a case of "sh*t or bust". For example: even if your pawns survived an infection with the plague, they may have encapsulated pathogens in their femur, spine or pelvis, which, at a later time, will cause a new outbreak of the dormant disease.
 Also diseases can now cause secondary diseases or long-term conditions. Some, like the plague, may cause a benign growth as secondary disease. Sleeping sickness, on the other hand, now has a chance to cause a long-term condition: a damage to essential brainparts which has no immidient effect, but inevitably leads to a case of coma in the foreseeable future. From that your pawn may awake - maybe twenty days later. Maybe six or fifteen years later. Maybe never.
 
