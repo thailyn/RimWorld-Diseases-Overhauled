@@ -1,6 +1,6 @@
 # General information
 
-This is an unofficial update of PhileasFogg mod which can be found on the [Ludeon Forums](url=https://ludeon.com/forums/index.php?topic=34214.msg349406)
+This is an unofficial update of PhileasFogg's mod which can be found on the [Ludeon Forums](url=https://ludeon.com/forums/index.php?topic=34214.msg349406)
 
 # New drugs
 
