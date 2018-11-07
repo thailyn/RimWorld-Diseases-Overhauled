@@ -111,10 +111,10 @@ Now this can also be: toothache, acute appendicitis, inflammation, Epstein-Barr 
 
 # Mod list order
 
-
 * [Expanded Prosthetics and Organ Engineering](https://steamcommunity.com/workshop/filedetails/?id=725956940)
 * [Extended Human Body Simulation](https://steamcommunity.com/workshop/filedetails/?id=1559033367)
-* Diseases Overhauled
+* [Diseases Overhauled](https://steamcommunity.com/sharedfiles/filedetails/?id=1559034352)
+* [Crafted Mutants](https://steamcommunity.com/sharedfiles/filedetails/?id=1559136016)
 
 
 # Credits
