@@ -31,7 +31,7 @@
 		</comps>
 		<stages>
 			<li>
-				<label>initial</label>
+				<label>hidden</label>
 			</li>
 			<li>
 				<minSeverity>0.5</minSeverity>
@@ -61,10 +61,8 @@
 						<hediff>SuicideHeart</hediff>
 						<mtbDays>10.0</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
+							<li>Arm</li>
+							<li>Leg</li>
 						</partsToAffect>
 						<countToAffect>4</countToAffect>
 					</li>
@@ -72,8 +70,7 @@
 						<hediff>SuicideLung</hediff>
 						<mtbDays>10.0</mtbDays>
 						<partsToAffect>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -107,16 +104,11 @@
 							<li>Heart</li>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
+							<li>Kidney</li>
+							<li>LobeLiver</li>
+							<li>Lung</li>
+							<li>Arm</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

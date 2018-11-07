@@ -8,7 +8,7 @@
 		<lethalSeverity>1</lethalSeverity>
 		<stages>
 			<li>
-				<label>initial</label>
+				<label>initial-hidden</label>
 			</li>
 			<li>
 				<label>sweating</label>

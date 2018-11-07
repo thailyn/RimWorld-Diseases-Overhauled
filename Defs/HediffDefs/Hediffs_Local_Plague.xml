@@ -9,7 +9,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>30000</tendDuration>
+				<baseTendDurationHours>36</baseTendDurationHours>
 				<severityPerDayTended>-0.38</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
@@ -102,10 +102,8 @@
 						<partsToAffect>
 							<li>Spine</li>
 							<li>Pelvis</li>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
-							<li>LeftHumerus</li>
-							<li>RightHumerus</li>
+							<li>Femur</li>
+							<li>Humerus</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -148,16 +146,14 @@
 						<partsToAffect>
 							<li>Brain</li>
 							<li>Sternum</li>
-							<li>LeftClavicle</li>
-							<li>RightClavicle</li>
+							<li>Clavicle</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>60</mtbDays>
 						<partsToAffect>
-							<li>LeftEar</li>
-							<li>RightEar</li>
+							<li>Ear</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -216,16 +212,11 @@
 						<hediff>EncapsulatedPlague</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LeftTibia</li>
-							<li>RightTibia</li>
-							<li>LeftFibula</li>
-							<li>RightFibula</li>
-							<li>LeftPatella</li>
-							<li>RightPatella</li>
-							<li>LeftRadius</li>
-							<li>RightRadius</li>
-							<li>LeftUlna</li>
-							<li>RightUlna</li>
+							<li>Tibia</li>
+							<li>Fibula</li>
+							<li>Patella</li>
+							<li>Radius</li>
+							<li>Ulna</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -233,8 +224,7 @@
 						<mtbDays>45</mtbDays>
 						<partsToAffect>
 							<li>Jaw</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
+							<li>Ear</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -296,24 +286,16 @@
 						<partsToAffect>
 							<li>Spine</li>
 							<li>Pelvis</li>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
-							<li>LeftHumerus</li>
-							<li>RightHumerus</li>
+							<li>Femur</li>
+							<li>Humerus</li>
 							<li>Brain</li>
 							<li>Sternum</li>
-							<li>LeftClavicle</li>
-							<li>RightClavicle</li>
-							<li>LeftTibia</li>
-							<li>RightTibia</li>
-							<li>LeftFibula</li>
-							<li>RightFibula</li>
-							<li>LeftPatella</li>
-							<li>RightPatella</li>
-							<li>LeftRadius</li>
-							<li>RightRadius</li>
-							<li>LeftUlna</li>
-							<li>RightUlna</li>
+							<li>Clavicle</li>
+							<li>Tibia</li>
+							<li>Fibula</li>
+							<li>Patella</li>
+							<li>Radius</li>
+							<li>Ulna</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -321,10 +303,8 @@
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
 							<li>Jaw</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Ear</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">

@@ -2,11 +2,21 @@
 <Defs>
 
 	<IncidentDef Name="DiseaseIncident" Abstract="True">
-		<workerClass>IncidentWorker_Disease</workerClass>
-		<category>Disease</category>
-		<targetTypes>
-			<li>MapPlayerHome</li>
-		</targetTypes>
+		<workerClass>IncidentWorker_DiseaseHuman</workerClass>
+		<category>DiseaseHuman</category>
+		<targetTags>
+			<li>Map_PlayerHome</li>
+			<li>Map_TempIncident</li>
+			<li>Map_Misc</li>
+			<li>Map_RaidBeacon</li>
+			<li>Caravan</li>
+		</targetTags>
+		<diseaseVictimFractionRange>
+			<min>0.2</min>
+			<max>0.5</max>
+		</diseaseVictimFractionRange>
+		<letterText>{0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3}</letterText>
+		<letterDef>NegativeEvent</letterDef>
 	</IncidentDef>
 
 	<IncidentDef ParentName="DiseaseIncident">
@@ -168,8 +178,7 @@
 			<max>0.3</max>
 		</diseaseVictimFractionRange>
 		<diseasePartsToAffect>
-			<li>LeftLung</li>
-			<li>RightLung</li>
+			<li>Lung</li>
 		</diseasePartsToAffect>
 	</IncidentDef>
 

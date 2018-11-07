@@ -17,7 +17,7 @@
 		</comps>
 		<stages>
 			<li>
-				<label>initial</label>
+				<label>hidden</label>
 			</li>
 			<li>
 				<minSeverity>0.03</minSeverity>

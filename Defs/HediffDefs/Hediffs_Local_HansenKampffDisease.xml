@@ -32,34 +32,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>120</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -78,34 +56,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>90</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -124,34 +80,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>60</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -170,34 +104,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>45</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -216,34 +128,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -262,34 +152,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>15</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -308,34 +176,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -354,34 +200,12 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>2.5</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

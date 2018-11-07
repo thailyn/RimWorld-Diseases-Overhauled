@@ -9,7 +9,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>50000</tendDuration>
+				<baseTendDurationHours>48</baseTendDurationHours>
 				<severityPerDayTended>-0.38</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
@@ -40,14 +40,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -65,14 +61,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -90,14 +82,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -120,14 +108,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -150,14 +134,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -170,12 +150,9 @@
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
 							<li>Spleed</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Eye</li>
+							<li>Ear</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -193,14 +170,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -214,12 +187,9 @@
 						<partsToAffect>
 							<li>Brain</li>
 							<li>Spleed</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Eye</li>
+							<li>Ear</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -237,14 +207,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -258,12 +224,9 @@
 						<partsToAffect>
 							<li>Brain</li>
 							<li>Spleed</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Eye</li>
+							<li>Ear</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

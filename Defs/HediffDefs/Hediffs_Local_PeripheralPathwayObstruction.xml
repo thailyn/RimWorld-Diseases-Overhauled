@@ -85,8 +85,7 @@
 						<partsToAffect>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
+							<li>Kidney</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -105,10 +104,8 @@
 						<partsToAffect>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -127,12 +124,9 @@
 						<partsToAffect>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -151,12 +145,9 @@
 						<partsToAffect>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
+							<li>LobeLiver</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -176,12 +167,9 @@
 						<partsToAffect>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
+							<li>LobeLiver</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -201,12 +189,9 @@
 						<partsToAffect>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
+							<li>LobeLiver</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -229,28 +214,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -267,28 +252,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -305,28 +290,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -343,28 +328,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -381,28 +366,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -419,28 +404,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -457,28 +442,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -495,28 +480,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -533,28 +518,28 @@
 						<hediff>PeripheralPathwayObstructionStageLS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightShoulder</li>
+							<li>Shoulder</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightLeg</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -576,7 +561,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -593,7 +578,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -610,7 +595,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -627,7 +612,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -644,7 +629,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -661,7 +646,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -678,7 +663,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -695,7 +680,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -712,7 +697,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -734,7 +719,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -751,7 +736,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -768,7 +753,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -785,7 +770,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -802,7 +787,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -819,7 +804,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -836,7 +821,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -853,7 +838,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -870,7 +855,7 @@
 						<hediff>PeripheralPathwayObstructionStageLS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -892,7 +877,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -909,7 +894,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -926,7 +911,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -943,7 +928,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -960,7 +945,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -977,7 +962,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -994,7 +979,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1011,7 +996,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1028,7 +1013,7 @@
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1050,7 +1035,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1067,7 +1052,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1084,7 +1069,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1101,7 +1086,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1118,7 +1103,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1135,7 +1120,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1152,7 +1137,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1169,7 +1154,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1186,7 +1171,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightArm</li>
+							<li>Arm</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1208,7 +1193,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1225,7 +1210,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1242,7 +1227,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1259,7 +1244,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1276,7 +1261,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1293,7 +1278,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1310,7 +1295,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1327,7 +1312,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1344,7 +1329,7 @@
 						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightHand</li>
+							<li>Hand</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1366,7 +1351,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1383,7 +1368,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1400,7 +1385,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1417,7 +1402,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1434,7 +1419,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1451,7 +1436,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1468,7 +1453,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1485,7 +1470,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -1502,7 +1487,7 @@
 						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>RightFoot</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

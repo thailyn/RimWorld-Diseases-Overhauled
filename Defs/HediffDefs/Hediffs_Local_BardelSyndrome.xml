@@ -21,7 +21,7 @@
 				</severityPerDayNotImmuneRandomFactor>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>120000</tendDuration>
+				<baseTendDurationHours>240</baseTendDurationHours>
 				<tendAllAtOnce>true</tendAllAtOnce>
 				<severityPerDayTended>-0.3</severityPerDayTended>
 			</li>
@@ -38,14 +38,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_RandomDrugEffect">
@@ -53,14 +49,10 @@
 						<minSeverity>0.2</minSeverity>
 						<baseMtbDays>20</baseMtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -89,14 +81,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_RandomDrugEffect">
@@ -104,14 +92,10 @@
 						<minSeverity>0.35</minSeverity>
 						<baseMtbDays>17.5</baseMtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -146,14 +130,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_RandomDrugEffect">
@@ -161,14 +141,10 @@
 						<minSeverity>0.5</minSeverity>
 						<baseMtbDays>15</baseMtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -194,11 +170,11 @@
 						<mtbDays>12</mtbDays>
 					</li>
 					<li>
-						<mentalState>WanderPsychotic</mentalState>
+						<mentalState>Wander_Psychotic</mentalState>
 						<mtbDays>12</mtbDays>
 					</li>
 					<li>
-						<mentalState>WanderOwnRoom</mentalState>
+						<mentalState>Wander_OwnRoom</mentalState>
 						<mtbDays>12</mtbDays>
 					</li>
 				</mentalStateGivers>
@@ -211,14 +187,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_RandomDrugEffect">
@@ -226,14 +198,10 @@
 						<minSeverity>0.65</minSeverity>
 						<baseMtbDays>12.5</baseMtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -274,14 +242,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_RandomDrugEffect">
@@ -289,14 +253,10 @@
 						<minSeverity>0.8</minSeverity>
 						<baseMtbDays>10</baseMtbDays>
 						<partsToAffect>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

@@ -10,8 +10,7 @@
 					<hediff>Cirrhosis</hediff>
 					<chance>0.1</chance>
 					<partsToAffect>
-						<li>LeftLobeLiver</li>
-						<li>RightLobeLiver</li>
+						<li>LobeLiver</li>
 					</partsToAffect>
 					<countToAffect>2</countToAffect>
 				</li>
@@ -35,8 +34,7 @@
 					<minSeverity>0.50</minSeverity>
 					<baseMtbDays>60</baseMtbDays>
 					<partsToAffect>
-						<li>LeftLobeLiver</li>
-						<li>RightLobeLiver</li>
+						<li>LobeLiver</li>
 					</partsToAffect>
 					<countToAffect>2</countToAffect>
 				</li>

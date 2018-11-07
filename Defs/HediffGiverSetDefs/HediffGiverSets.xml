@@ -418,8 +418,7 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>BloodCancer</hediff>
 				<partsToAffect>
-					<li>LeftFemur</li>
-					<li>RightFemur</li>
+					<li>Femur</li>
 				</partsToAffect>
 				<countToAffect>2</countToAffect>
 				<ageFractionChanceCurve>
@@ -439,8 +438,7 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>Cirrhosis</hediff>
 				<partsToAffect>
-					<li>LeftLobeLiver</li>
-					<li>RightLobeLiver</li>
+					<li>LobeLiver</li>
 				</partsToAffect>
 				<countToAffect>2</countToAffect>
 				<ageFractionChanceCurve>
@@ -460,10 +458,8 @@
 				<partsToAffect>
 					<li>Nose</li>
 					<li>Jaw</li>
-					<li>LeftEar</li>
-					<li>RightEar</li>
-					<li>LeftEye</li>
-					<li>RightEye</li>
+					<li>Ear</li>
+					<li>Eye</li>
 					<li>Spine</li>
 					<li>Pelvis</li>
 					<li>Rib1</li>
@@ -479,56 +475,23 @@
 					<li>Rib11</li>
 					<li>Rib12</li>
 					<li>Sternum</li>
-					<li>LeftFemur</li>
-					<li>RightFemur</li>
-					<li>LeftHumerus</li>
-					<li>RightHumerus</li>
-					<li>LeftClavicle</li>
-					<li>RightClavicle</li>
-					<li>LeftTibia</li>
-					<li>RightTibia</li>
-					<li>LeftFibula</li>
-					<li>RightFibula</li>
-					<li>LeftPatella</li>
-					<li>RightPatella</li>
-					<li>LeftRadius</li>
-					<li>RightRadius</li>
-					<li>LeftUlna</li>
-					<li>RightUlna</li>
-					<li>LeftArm</li>
-					<li>RightArm</li>
-					<li>LeftLeg</li>
-					<li>RightLeg</li>
-					<li>LeftHand</li>
-					<li>RightHand</li>
-					<li>LeftFoot</li>
-					<li>RightFoot</li>
-					<li>LeftHandPinky</li>
-					<li>LeftHandRingFinger</li>
-					<li>LeftHandMiddleFinger</li>
-					<li>LeftHandIndexFinger</li>
-					<li>LeftHandThumb</li>
-					<li>RightHandPinky</li>
-					<li>RightHandRingFinger</li>
-					<li>RightHandMiddleFinger</li>
-					<li>RightHandIndexFinger</li>
-					<li>RightHandThumb</li>
-					<li>LeftFootLittleToe</li>
-					<li>LeftFootFourthToe</li>
-					<li>LeftFootMiddleToe</li>
-					<li>LeftFootSecondToe</li>
-					<li>LeftFootBigToe</li>
-					<li>RightFootLittleToe</li>
-					<li>RightFootFourthToe</li>
-					<li>RightFootMiddleToe</li>
-					<li>RightFootSecondToe</li>
-					<li>RightFootBigToe</li>
-					<li>LeftLobeLiver</li>
-					<li>RightLobeLiver</li>
-					<li>LeftKidney</li>
-					<li>RightKidney</li>
-					<li>LeftLung</li>
-					<li>RightLung</li>
+					<li>Femur</li>
+					<li>Humerus</li>
+					<li>Clavicle</li>
+					<li>Tibia</li>
+					<li>Fibula</li>
+					<li>Patella</li>
+					<li>Radius</li>
+					<li>Ulna</li>
+					<li>Arm</li>
+					<li>Leg</li>
+					<li>Hand</li>
+					<li>Foot</li>
+					<li>Finger</li>
+					<li>Toe</li>
+					<li>LobeLiver</li>
+					<li>Kidney</li>
+					<li>Lung</li>
 					<li>Stomach</li>
 					<li>Spleed</li>
 					<li>Heart</li>
@@ -551,18 +514,8 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>Chawbaecks</hediff>
 				<partsToAffect>
-					<li>LeftHand</li>
-					<li>LeftHandPinky</li>
-					<li>LeftHandRingFinger</li>
-					<li>LeftHandMiddleFinger</li>
-					<li>LeftHandIndexFinger</li>
-					<li>LeftHandThumb</li>
-					<li>RightHand</li>
-					<li>RightHandPinky</li>
-					<li>RightHandRingFinger</li>
-					<li>RightHandMiddleFinger</li>
-					<li>RightHandIndexFinger</li>
-					<li>RightHandThumb</li>
+					<li>Hand</li>
+					<li>Finger</li>
 				</partsToAffect>
 				<countToAffect>10</countToAffect>
 				<ageFractionChanceCurve>
@@ -582,18 +535,8 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>Chawbaecks</hediff>
 				<partsToAffect>
-					<li>LeftFoot</li>
-					<li>LeftFootLittleToe</li>
-					<li>LeftFootFourthToe</li>
-					<li>LeftFootMiddleToe</li>
-					<li>LeftFootSecondToe</li>
-					<li>LeftFootBigToe</li>
-					<li>RightFoot</li>
-					<li>RightFootLittleToe</li>
-					<li>RightFootFourthToe</li>
-					<li>RightFootMiddleToe</li>
-					<li>RightFootSecondToe</li>
-					<li>RightFootBigToe</li>
+					<li>Foot</li>
+					<li>Toe</li>
 				</partsToAffect>
 				<countToAffect>10</countToAffect>
 				<ageFractionChanceCurve>
@@ -636,22 +579,14 @@
 					<li>Spine</li>
 					<li>Pelvis</li>
 					<li>Sternum</li>
-					<li>LeftFemur</li>
-					<li>RightFemur</li>
-					<li>LeftHumerus</li>
-					<li>RightHumerus</li>
-					<li>LeftClavicle</li>
-					<li>RightClavicle</li>
-					<li>LeftTibia</li>
-					<li>RightTibia</li>
-					<li>LeftFibula</li>
-					<li>RightFibula</li>
-					<li>LeftPatella</li>
-					<li>RightPatella</li>
-					<li>LeftRadius</li>
-					<li>RightRadius</li>
-					<li>LeftUlna</li>
-					<li>RightUlna</li>
+					<li>Femur</li>
+					<li>Humerus</li>
+					<li>Clavicle</li>
+					<li>Tibia</li>
+					<li>Fibula</li>
+					<li>Patella</li>
+					<li>Radius</li>
+					<li>Ulna</li>
 				</partsToAffect>
 				<countToAffect>19</countToAffect>
 				<ageFractionChanceCurve>
@@ -687,8 +622,7 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>Cataract</hediff>
 				<partsToAffect>
-					<li>LeftEye</li>
-					<li>RightEye</li>
+					<li>Eye</li>
 				</partsToAffect>
 				<countToAffect>2</countToAffect>
 				<ageFractionChanceCurve>
@@ -705,8 +639,7 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>HearingLoss</hediff>
 				<partsToAffect>
-					<li>LeftEar</li>
-					<li>RightEar</li>
+					<li>Ear</li>
 				</partsToAffect>
 				<countToAffect>2</countToAffect>
 				<ageFractionChanceCurve>
@@ -774,8 +707,7 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>Asthma</hediff>
 				<partsToAffect>
-					<li>LeftLung</li>
-					<li>RightLung</li>
+					<li>Lung</li>
 				</partsToAffect>
 				<countToAffect>2</countToAffect>
 				<ageFractionChanceCurve>

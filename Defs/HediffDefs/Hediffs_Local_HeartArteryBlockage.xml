@@ -17,6 +17,9 @@
 		</comps>
 		<stages>
 			<li>
+				<label>hidden</label>
+			</li>
+			<li>
 				<minSeverity>0.025</minSeverity>
 				<label>initial</label>
 				<partEfficiencyOffset>-0.05</partEfficiencyOffset>

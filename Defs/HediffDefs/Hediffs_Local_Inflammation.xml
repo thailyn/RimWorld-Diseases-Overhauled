@@ -10,7 +10,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>50000</tendDuration>
+				<baseTendDurationHours>48</baseTendDurationHours>
 				<severityPerDayTended>-0.5</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
@@ -114,12 +114,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Spleed</li>
 							<li>Heart</li>
 							<li>Brain</li>

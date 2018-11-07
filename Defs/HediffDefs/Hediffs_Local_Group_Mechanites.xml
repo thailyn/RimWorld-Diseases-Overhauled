@@ -17,7 +17,7 @@
 				</disappearsAfterTicks>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>80000</tendDuration>
+				<baseTendDurationHours>80</baseTendDurationHours>
 				<severityPerDayTended>-1.0</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">

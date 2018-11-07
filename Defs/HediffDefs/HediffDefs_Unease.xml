@@ -30,6 +30,9 @@
 		</comps>
 		<stages>
 			<li>
+				<label>hidden</label>
+			</li>
+			<li>
 				<label>minor</label>
 				<minSeverity>0.3</minSeverity>
 			</li>

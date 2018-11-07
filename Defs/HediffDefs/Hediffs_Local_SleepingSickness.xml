@@ -9,7 +9,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>80000</tendDuration>
+				<baseTendDurationHours>8</baseTendDurationHours>
 				<severityPerDayTended>-0.033</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
@@ -25,7 +25,7 @@
 		</comps>
 		<stages>
 			<li>
-				<label>initial</label>
+				<label>minor-hidden</label>
 			</li>
 			<li>
 				<minSeverity>0.29</minSeverity>
@@ -103,8 +103,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>45</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 							<li>Brain</li>
 						</partsToAffect>
 					</li>
@@ -138,8 +137,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 							<li>Brain</li>
 						</partsToAffect>
 					</li>

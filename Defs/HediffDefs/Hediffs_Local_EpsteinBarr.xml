@@ -18,14 +18,16 @@
 		</comps>
 		<stages>
 			<li>
+				<label>hidden</label>
+			</li>
+			<li>
 				<minSeverity>0.15</minSeverity>
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>BloodCancer</hediff>
 						<mtbDays>1800</mtbDays>
 						<partsToAffect>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
+							<li>Femur</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -55,8 +57,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>1800</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -73,14 +74,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -92,8 +89,7 @@
 						<hediff>BloodCancer</hediff>
 						<mtbDays>1200</mtbDays>
 						<partsToAffect>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
+							<li>Femur</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -123,8 +119,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>1200</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -141,14 +136,10 @@
 							<li>Head</li>
 							<li>Neck</li>
 							<li>Torso</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

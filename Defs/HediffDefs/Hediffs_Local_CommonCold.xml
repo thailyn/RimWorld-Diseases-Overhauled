@@ -38,10 +38,8 @@
 							<li>Head</li>
 							<li>Nose</li>
 							<li>Neck</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Ear</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

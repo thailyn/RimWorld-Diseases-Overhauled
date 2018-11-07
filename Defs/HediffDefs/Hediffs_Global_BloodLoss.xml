@@ -7,7 +7,7 @@
 		<lethalSeverity>1</lethalSeverity>
 		<stages>
 			<li>
-				<label>initial</label>
+				<label>hidden</label>
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Sepsis</hediff>

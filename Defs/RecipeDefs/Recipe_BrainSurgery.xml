@@ -34,9 +34,9 @@
 			<categories>
 				<li>Medicine</li>
 			</categories>
-			<exceptedThingDefs>
-				<li>HerbalMedicine</li>
-			</exceptedThingDefs>
+			<disallowedThingDefs>
+				<li>MedicineHerbal</li>
+			</disallowedThingDefs>
 		</fixedIngredientFilter>
 		<appliedOnFixedBodyParts>
 			<li>Brain</li>

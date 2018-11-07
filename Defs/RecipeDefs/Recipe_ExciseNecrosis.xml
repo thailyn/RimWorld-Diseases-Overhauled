@@ -26,9 +26,9 @@
 			<categories>
 				<li>Medicine</li>
 			</categories>
-			<exceptedThingDefs>
-				<li>HerbalMedicine</li>
-			</exceptedThingDefs>
+			<disallowedThingDefs>
+				<li>MedicineHerbal</li>
+			</disallowedThingDefs>
 		</fixedIngredientFilter>
 		<skillRequirements>
 			<Medicine>10</Medicine>

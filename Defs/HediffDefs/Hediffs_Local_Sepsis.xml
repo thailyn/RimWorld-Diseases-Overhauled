@@ -11,7 +11,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>30000</tendDuration>
+				<baseTendDurationHours>36</baseTendDurationHours>
 				<severityPerDayTended>-0.425</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
@@ -51,10 +51,8 @@
 						<partsToAffect>
 							<li>Nose</li>
 							<li>Jaw</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Ear</li>
+							<li>Eye</li>
 							<li>Spine</li>
 							<li>Pelvis</li>
 							<li>Rib1</li>
@@ -70,56 +68,23 @@
 							<li>Rib11</li>
 							<li>Rib12</li>
 							<li>Sternum</li>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
-							<li>LeftHumerus</li>
-							<li>RightHumerus</li>
-							<li>LeftClavicle</li>
-							<li>RightClavicle</li>
-							<li>LeftTibia</li>
-							<li>RightTibia</li>
-							<li>LeftFibula</li>
-							<li>RightFibula</li>
-							<li>LeftPatella</li>
-							<li>RightPatella</li>
-							<li>LeftRadius</li>
-							<li>RightRadius</li>
-							<li>LeftUlna</li>
-							<li>RightUlna</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Femur</li>
+							<li>Humerus</li>
+							<li>Clavicle</li>
+							<li>Tibia</li>
+							<li>Fibula</li>
+							<li>Patella</li>
+							<li>Radius</li>
+							<li>Ulna</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Stomach</li>
 							<li>Spleed</li>
 							<li>Heart</li>
@@ -144,10 +109,8 @@
 						<partsToAffect>
 							<li>Nose</li>
 							<li>Jaw</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Ear</li>
+							<li>Eye</li>
 							<li>Spine</li>
 							<li>Pelvis</li>
 							<li>Rib1</li>
@@ -163,56 +126,23 @@
 							<li>Rib11</li>
 							<li>Rib12</li>
 							<li>Sternum</li>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
-							<li>LeftHumerus</li>
-							<li>RightHumerus</li>
-							<li>LeftClavicle</li>
-							<li>RightClavicle</li>
-							<li>LeftTibia</li>
-							<li>RightTibia</li>
-							<li>LeftFibula</li>
-							<li>RightFibula</li>
-							<li>LeftPatella</li>
-							<li>RightPatella</li>
-							<li>LeftRadius</li>
-							<li>RightRadius</li>
-							<li>LeftUlna</li>
-							<li>RightUlna</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Femur</li>
+							<li>Humerus</li>
+							<li>Clavicle</li>
+							<li>Tibia</li>
+							<li>Fibula</li>
+							<li>Patella</li>
+							<li>Radius</li>
+							<li>Ulna</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Stomach</li>
 							<li>Spleed</li>
 							<li>Heart</li>
@@ -241,10 +171,8 @@
 						<partsToAffect>
 							<li>Nose</li>
 							<li>Jaw</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Ear</li>
+							<li>Eye</li>
 							<li>Spine</li>
 							<li>Pelvis</li>
 							<li>Rib1</li>
@@ -260,56 +188,23 @@
 							<li>Rib11</li>
 							<li>Rib12</li>
 							<li>Sternum</li>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
-							<li>LeftHumerus</li>
-							<li>RightHumerus</li>
-							<li>LeftClavicle</li>
-							<li>RightClavicle</li>
-							<li>LeftTibia</li>
-							<li>RightTibia</li>
-							<li>LeftFibula</li>
-							<li>RightFibula</li>
-							<li>LeftPatella</li>
-							<li>RightPatella</li>
-							<li>LeftRadius</li>
-							<li>RightRadius</li>
-							<li>LeftUlna</li>
-							<li>RightUlna</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Femur</li>
+							<li>Humerus</li>
+							<li>Clavicle</li>
+							<li>Tibia</li>
+							<li>Fibula</li>
+							<li>Patella</li>
+							<li>Radius</li>
+							<li>Ulna</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Stomach</li>
 							<li>Spleed</li>
 							<li>Heart</li>
@@ -319,12 +214,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Spleed</li>
 							<li>Heart</li>
 							<li>Brain</li>
@@ -358,10 +250,8 @@
 						<partsToAffect>
 							<li>Nose</li>
 							<li>Jaw</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Ear</li>
+							<li>Eye</li>
 							<li>Spine</li>
 							<li>Pelvis</li>
 							<li>Rib1</li>
@@ -377,56 +267,23 @@
 							<li>Rib11</li>
 							<li>Rib12</li>
 							<li>Sternum</li>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
-							<li>LeftHumerus</li>
-							<li>RightHumerus</li>
-							<li>LeftClavicle</li>
-							<li>RightClavicle</li>
-							<li>LeftTibia</li>
-							<li>RightTibia</li>
-							<li>LeftFibula</li>
-							<li>RightFibula</li>
-							<li>LeftPatella</li>
-							<li>RightPatella</li>
-							<li>LeftRadius</li>
-							<li>RightRadius</li>
-							<li>LeftUlna</li>
-							<li>RightUlna</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Femur</li>
+							<li>Humerus</li>
+							<li>Clavicle</li>
+							<li>Tibia</li>
+							<li>Fibula</li>
+							<li>Patella</li>
+							<li>Radius</li>
+							<li>Ulna</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Stomach</li>
 							<li>Spleed</li>
 							<li>Heart</li>
@@ -436,12 +293,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Spleed</li>
 							<li>Heart</li>
 							<li>Brain</li>
@@ -479,10 +333,8 @@
 						<partsToAffect>
 							<li>Nose</li>
 							<li>Jaw</li>
-							<li>LeftEar</li>
-							<li>RightEar</li>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Ear</li>
+							<li>Eye</li>
 							<li>Spine</li>
 							<li>Pelvis</li>
 							<li>Rib1</li>
@@ -498,56 +350,23 @@
 							<li>Rib11</li>
 							<li>Rib12</li>
 							<li>Sternum</li>
-							<li>LeftFemur</li>
-							<li>RightFemur</li>
-							<li>LeftHumerus</li>
-							<li>RightHumerus</li>
-							<li>LeftClavicle</li>
-							<li>RightClavicle</li>
-							<li>LeftTibia</li>
-							<li>RightTibia</li>
-							<li>LeftFibula</li>
-							<li>RightFibula</li>
-							<li>LeftPatella</li>
-							<li>RightPatella</li>
-							<li>LeftRadius</li>
-							<li>RightRadius</li>
-							<li>LeftUlna</li>
-							<li>RightUlna</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
-							<li>LeftHand</li>
-							<li>RightHand</li>
-							<li>LeftFoot</li>
-							<li>RightFoot</li>
-							<li>LeftHandPinky</li>
-							<li>LeftHandRingFinger</li>
-							<li>LeftHandMiddleFinger</li>
-							<li>LeftHandIndexFinger</li>
-							<li>LeftHandThumb</li>
-							<li>RightHandPinky</li>
-							<li>RightHandRingFinger</li>
-							<li>RightHandMiddleFinger</li>
-							<li>RightHandIndexFinger</li>
-							<li>RightHandThumb</li>
-							<li>LeftFootLittleToe</li>
-							<li>LeftFootFourthToe</li>
-							<li>LeftFootMiddleToe</li>
-							<li>LeftFootSecondToe</li>
-							<li>LeftFootBigToe</li>
-							<li>RightFootLittleToe</li>
-							<li>RightFootFourthToe</li>
-							<li>RightFootMiddleToe</li>
-							<li>RightFootSecondToe</li>
-							<li>RightFootBigToe</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Femur</li>
+							<li>Humerus</li>
+							<li>Clavicle</li>
+							<li>Tibia</li>
+							<li>Fibula</li>
+							<li>Patella</li>
+							<li>Radius</li>
+							<li>Ulna</li>
+							<li>Arm</li>
+							<li>Leg</li>
+							<li>Hand</li>
+							<li>Foot</li>
+							<li>Finger</li>
+							<li>Toe</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Stomach</li>
 							<li>Spleed</li>
 							<li>Heart</li>
@@ -557,12 +376,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>2.5</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Spleed</li>
 							<li>Heart</li>
 							<li>Brain</li>
@@ -608,12 +424,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>1</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Spleed</li>
 							<li>Heart</li>
 							<li>Brain</li>
@@ -673,12 +486,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>0.5</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
+							<li>Lung</li>
 							<li>Spleed</li>
 							<li>Heart</li>
 							<li>Brain</li>

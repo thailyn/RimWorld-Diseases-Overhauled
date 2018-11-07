@@ -9,7 +9,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>70000</tendDuration>
+				<baseTendDurationHours>70</baseTendDurationHours>
 				<severityPerDayTended>-0.34</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
@@ -49,8 +49,7 @@
 						<hediff>Cataract</hediff>
 						<mtbDays>45</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -73,8 +72,7 @@
 						<hediff>Cataract</hediff>
 						<mtbDays>15</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -106,16 +104,14 @@
 						<hediff>Cataract</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -147,8 +143,7 @@
 						<hediff>Cataract</hediff>
 						<mtbDays>15</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -156,8 +151,7 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -189,8 +183,7 @@
 						<hediff>Cataract</hediff>
 						<mtbDays>7.5</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -198,8 +191,7 @@
 						<hediff>Necrosis</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LeftEye</li>
-							<li>RightEye</li>
+							<li>Eye</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">

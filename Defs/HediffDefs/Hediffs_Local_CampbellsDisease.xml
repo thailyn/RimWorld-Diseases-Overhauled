@@ -21,7 +21,7 @@
 				</severityPerDayNotImmuneRandomFactor>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>120000</tendDuration>
+				<baseTendDurationHours>240</baseTendDurationHours>
 				<tendAllAtOnce>true</tendAllAtOnce>
 				<severityPerDayTended>-0.3</severityPerDayTended>
 			</li>

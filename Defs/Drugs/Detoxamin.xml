@@ -35,7 +35,7 @@
 		<costList>
 			<RawHops>2</RawHops>
 			<Neutroamine>1</Neutroamine>
-			<HerbalMedicine>2</HerbalMedicine>
+			<MedicineHerbal>2</MedicineHerbal>
 		</costList>
 		<comps>
 			<li Class="CompProperties_Drug">

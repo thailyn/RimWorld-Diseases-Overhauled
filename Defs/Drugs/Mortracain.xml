@@ -120,10 +120,8 @@
 				<chance>0.2</chance>
 				<partsToAffect>
 					<li>Stomach</li>
-					<li>LeftKidney</li>
-					<li>RightKidney</li>
-					<li>LeftLobeLiver</li>
-					<li>RightLobeLiver</li>
+					<li>Kidney</li>
+					<li>LobeLiver</li>
 				</partsToAffect>
 			</li>
 		</onGeneratedAddictedEvents>
@@ -155,10 +153,8 @@
 				<baseMtbDays>120</baseMtbDays>
 				<partsToAffect>
 					<li>Stomach</li>
-					<li>LeftKidney</li>
-					<li>RightKidney</li>
-					<li>LeftLobeLiver</li>
-					<li>RightLobeLiver</li>
+					<li>Kidney</li>
+					<li>LobeLiver</li>
 				</partsToAffect>
 			</li>
 		</hediffGivers>
@@ -190,7 +186,7 @@
 				</capMods>
 				<mentalStateGivers>
 					<li>
-						<mentalState>BingingDrugExtreme</mentalState>
+						<mentalState>Binging_DrugExtreme</mentalState>
 						<mtbDays>40</mtbDays>
 					</li>
 				</mentalStateGivers>

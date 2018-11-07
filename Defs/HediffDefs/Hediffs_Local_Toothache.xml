@@ -10,7 +10,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>90000</tendDuration>
+				<baseTendDurationHours>9</baseTendDurationHours>
 				<severityPerDayTended>-0.45</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">

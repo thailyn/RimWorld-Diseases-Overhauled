@@ -19,7 +19,7 @@
 				</severityPerDayNotImmuneRandomFactor>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>420000</tendDuration>
+				<baseTendDurationHours>420</baseTendDurationHours>
 				<tendAllAtOnce>true</tendAllAtOnce>
 				<severityPerDayTended>-0.25</severityPerDayTended>
 			</li>
@@ -50,8 +50,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>180</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -59,16 +58,14 @@
 						<hediff>Carcinoma</hediff>
 						<mtbDays>90</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Inflammation</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -81,8 +78,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>60</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -90,16 +86,14 @@
 						<hediff>Carcinoma</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Inflammation</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
+							<li>LobeLiver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

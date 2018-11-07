@@ -22,7 +22,7 @@
 				<severityPerDayImmune>-0.333</severityPerDayImmune>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>80000</tendDuration>
+				<baseTendDurationHours>80</baseTendDurationHours>
 				<severityPerDayTended>-0.12</severityPerDayTended>
 			</li>
 		</comps>
@@ -191,8 +191,8 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>120000</tendDuration>
-				<disappearsAtTendedCount>5</disappearsAtTendedCount>
+				<baseTendDurationHours>120</baseTendDurationHours>
+				<severityPerDayTended>-0.12</severityPerDayTended>
 			</li>
 		</comps>
 		<stages>
@@ -231,8 +231,8 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>120000</tendDuration>
-				<disappearsAtTendedCount>5</disappearsAtTendedCount>
+				<baseTendDurationHours>120</baseTendDurationHours>
+				<disappearsAtTotalTendQuality>5</disappearsAtTotalTendQuality>
 			</li>
 		</comps>
 		<stages>
@@ -244,8 +244,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>45</mtbDays>
 						<partsToAffect>
-							<li>LeftLung</li>
-							<li>RightLung</li>
+							<li>Lung</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -262,8 +261,8 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>120000</tendDuration>
-				<disappearsAtTendedCount>5</disappearsAtTendedCount>
+				<baseTendDurationHours>120</baseTendDurationHours>
+				<disappearsAtTotalTendQuality>5</disappearsAtTotalTendQuality>
 			</li>
 		</comps>
 		<stages>
@@ -278,10 +277,8 @@
 						<partsToAffect>
 							<li>Spleed</li>
 							<li>Stomach</li>
-							<li>LeftLobeLiver</li>
-							<li>RightLobeLiver</li>
-							<li>LeftKidney</li>
-							<li>RightKidney</li>
+							<li>LobeLiver</li>
+							<li>Kidney</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -298,8 +295,8 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<tendDuration>120000</tendDuration>
-				<disappearsAtTendedCount>5</disappearsAtTendedCount>
+				<baseTendDurationHours>120</baseTendDurationHours>
+				<disappearsAtTotalTendQuality>5</disappearsAtTotalTendQuality>
 			</li>
 		</comps>
 		<stages>
@@ -323,10 +320,8 @@
 						<partsToAffect>
 							<li>Torso</li>
 							<li>Head</li>
-							<li>LeftArm</li>
-							<li>RightArm</li>
-							<li>LeftLeg</li>
-							<li>RightLeg</li>
+							<li>Arm</li>
+							<li>Leg</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
