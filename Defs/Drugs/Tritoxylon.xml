@@ -4,7 +4,7 @@
 	<ThingDef ParentName="MakeableDrugPillBase">
 		<defName>Tritoxylon</defName>
 		<label>tritoxylon</label>
-		<description>Drastically boosts the metabolic system and therefore heavily increases the immune response - among other body functions. Take one every two days. (May have severe sideeffects.)</description>
+		<description>Drastically boosts the metabolic system and therefore heavily increases the immune response - among other body functions. Take one every two days. (May have severe side effects.)</description>
 		<graphicData>
 			<texPath>Things/Tritoxylon</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

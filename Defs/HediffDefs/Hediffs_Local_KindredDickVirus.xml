@@ -149,7 +149,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>Spleed</li>
+							<li>Spleen</li>
 							<li>Eye</li>
 							<li>Ear</li>
 							<li>Lung</li>
@@ -186,7 +186,7 @@
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
-							<li>Spleed</li>
+							<li>Spleen</li>
 							<li>Eye</li>
 							<li>Ear</li>
 							<li>Lung</li>
@@ -223,7 +223,7 @@
 						<mtbDays>1</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
-							<li>Spleed</li>
+							<li>Spleen</li>
 							<li>Eye</li>
 							<li>Ear</li>
 							<li>Lung</li>
