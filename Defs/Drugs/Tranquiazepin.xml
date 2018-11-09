@@ -4,7 +4,7 @@
 	<ThingDef ParentName="MakeableDrugPillBase">
 		<defName>Tranquiazepin</defName>
 		<label>Tranquiazepin</label>
-		<description>Immediatly releaves all stress after ingestion. Take one per day. (Highly addictive.)</description>
+		<description>Immediately relieves all stress after ingestion. Take one per day. (Highly addictive.)</description>
 		<graphicData>
 			<texPath>Things/Tranquiazepin</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -106,7 +106,7 @@
 
 	<ResearchProjectDef>
 		<defName>TranquAnalgetProduction</defName>
-		<label>analgetics and tranquilizer production</label>
+		<label>analgesics and tranquilizer production</label>
 		<description>Learn to produce painkiller and stress reducing drugs.</description>
 		<baseCost>1500</baseCost>
 		<techLevel>Industrial</techLevel>

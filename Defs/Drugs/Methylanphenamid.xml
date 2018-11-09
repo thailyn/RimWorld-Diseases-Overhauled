@@ -4,7 +4,7 @@
 	<ThingDef ParentName="MakeableDrugPillBase">
 		<defName>Methylanphenamid</defName>
 		<label>Methylanphenamid</label>
-		<description>Increases awareness and learning ability. One use lasts three days. (Strongest effect on third day; may have strong sideeffects.)</description>
+		<description>Increases awareness and learning ability. One use lasts three days. (Strongest effect on third day; may have strong side effects.)</description>
 		<graphicData>
 			<texPath>Things/Methylanphenamid</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
