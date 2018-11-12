@@ -30,7 +30,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>120</mtbDays>
+						<mtbDays>150</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>
@@ -54,7 +54,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>90</mtbDays>
+						<mtbDays>120</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>
@@ -78,7 +78,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>60</mtbDays>
+						<mtbDays>90</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>
@@ -102,7 +102,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>45</mtbDays>
+						<mtbDays>60</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>
@@ -126,7 +126,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>30</mtbDays>
+						<mtbDays>45</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>
@@ -150,7 +150,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>15</mtbDays>
+						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>
@@ -174,7 +174,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>5</mtbDays>
+						<mtbDays>10</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>
@@ -198,7 +198,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Necrosis</hediff>
-						<mtbDays>2.5</mtbDays>
+						<mtbDays>5</mtbDays>
 						<partsToAffect>
 							<li>Arm</li>
 							<li>Leg</li>

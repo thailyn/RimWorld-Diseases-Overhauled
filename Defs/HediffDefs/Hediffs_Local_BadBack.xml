@@ -10,7 +10,7 @@
 			<li Class="HediffCompProperties_Immunizable">
 				<severityPerDayNotImmune>0.0065</severityPerDayNotImmune>
 				<severityPerDayNotImmuneRandomFactor>
-					<min>0.65</min>
+					<min>0.45</min>
 					<max>1.35</max>
 				</severityPerDayNotImmuneRandomFactor>
 			</li>
@@ -68,7 +68,7 @@
 			<li>
 				<label>final</label>
 				<minSeverity>1.0</minSeverity>
-				<partEfficiencyOffset>-0.95</partEfficiencyOffset>
+				<partEfficiencyOffset>-0.9</partEfficiencyOffset>
 			</li>
 		</stages>
 	</HediffDef>

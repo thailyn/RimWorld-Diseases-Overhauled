@@ -12,14 +12,14 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">
-				<severityPerDayNotImmune>0.2</severityPerDayNotImmune>
+				<severityPerDayNotImmune>0.15</severityPerDayNotImmune>
 				<severityPerDayNotImmuneRandomFactor>
 					<min>0.8</min>
 					<max>1.2</max>
 				</severityPerDayNotImmuneRandomFactor>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">
-				<baseTendDurationHours>420</baseTendDurationHours>
+				<baseTendDurationHours>120</baseTendDurationHours>
 				<tendAllAtOnce>true</tendAllAtOnce>
 				<severityPerDayTended>-0.25</severityPerDayTended>
 			</li>

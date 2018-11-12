@@ -45,7 +45,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>Stupor</hediff>
-						<mtbDays>30.0</mtbDays>
+						<mtbDays>25.0</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
