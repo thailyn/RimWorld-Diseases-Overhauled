@@ -11,7 +11,7 @@
 		<makesSickThought>true</makesSickThought>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">
-				<severityPerDayNotImmune>0.0016</severityPerDayNotImmune>
+				<severityPerDayNotImmune>0.0012</severityPerDayNotImmune>
 				<severityPerDayNotImmuneRandomFactor>
 					<min>0.01</min>
 					<max>5.00</max>

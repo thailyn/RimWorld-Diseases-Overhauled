@@ -23,7 +23,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>PTSD</hediff>
-						<mtbDays>2.5</mtbDays>
+						<mtbDays>10</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
