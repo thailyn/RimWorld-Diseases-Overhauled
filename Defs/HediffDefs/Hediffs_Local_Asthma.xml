@@ -10,14 +10,14 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">
-				<severityPerDayNotImmune>0.2</severityPerDayNotImmune>
+				<severityPerDayNotImmune>0.15</severityPerDayNotImmune>
 				<severityPerDayNotImmuneRandomFactor>
 					<min>0.8</min>
 					<max>1.2</max>
 				</severityPerDayNotImmuneRandomFactor>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">
-				<baseTendDurationHours>420</baseTendDurationHours>
+				<baseTendDurationHours>120</baseTendDurationHours>
 				<tendAllAtOnce>true</tendAllAtOnce>
 				<severityPerDayTended>-0.8</severityPerDayTended>
 			</li>
@@ -44,14 +44,14 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>ComaForever</hediff>
-						<mtbDays>600</mtbDays>
+						<mtbDays>900</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>ComaTimed</hediff>
-						<mtbDays>300</mtbDays>
+						<mtbDays>600</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
@@ -65,14 +65,14 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>ComaForever</hediff>
-						<mtbDays>120</mtbDays>
+						<mtbDays>240</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>ComaTimed</hediff>
-						<mtbDays>60</mtbDays>
+						<mtbDays>120</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
@@ -87,14 +87,14 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>ComaForever</hediff>
-						<mtbDays>60</mtbDays>
+						<mtbDays>120</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>ComaTimed</hediff>
-						<mtbDays>30</mtbDays>
+						<mtbDays>60</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>

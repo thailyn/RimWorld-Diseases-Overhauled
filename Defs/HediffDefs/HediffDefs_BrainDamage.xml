@@ -142,7 +142,7 @@
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Dead</hediff>
-						<mtbDays>45</mtbDays>
+						<mtbDays>65</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>
@@ -170,7 +170,7 @@
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>ComaForever</hediff>
-						<mtbDays>55</mtbDays>
+						<mtbDays>65</mtbDays>
 						<partsToAffect>
 							<li>Brain</li>
 						</partsToAffect>

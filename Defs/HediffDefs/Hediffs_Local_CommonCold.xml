@@ -9,7 +9,7 @@
 		<initialSeverity>1</initialSeverity>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">
-				<severityPerDayNotImmune>-0.166</severityPerDayNotImmune>
+				<severityPerDayNotImmune>-0.186</severityPerDayNotImmune>
 				<severityPerDayNotImmuneRandomFactor>
 					<min>0.9</min>
 					<max>1.1</max>
