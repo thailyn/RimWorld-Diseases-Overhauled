@@ -213,10 +213,7 @@
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
@@ -292,10 +289,7 @@
 							<li>Sternum</li>
 							<li>Clavicle</li>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
