@@ -34,10 +34,8 @@
 						<mtbDays>120</mtbDays>
 						<partsToAffect>
 							<li>Heart</li>
-							<li>Spleen</li>
 							<li>Stomach</li>
 							<li>Lung</li>
-							<li>LobeLiver</li>
 							<li>Kidney</li>
 						</partsToAffect>
 					</li>
@@ -87,10 +85,8 @@
 						<mtbDays>180</mtbDays>
 						<partsToAffect>
 							<li>Heart</li>
-							<li>Spleen</li>
 							<li>Stomach</li>
 							<li>Lung</li>
-							<li>LobeLiver</li>
 							<li>Kidney</li>
 						</partsToAffect>
 					</li>

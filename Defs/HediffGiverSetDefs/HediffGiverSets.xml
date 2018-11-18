@@ -479,7 +479,6 @@
 					<li>Kidney</li>
 					<li>Lung</li>
 					<li>Stomach</li>
-					<li>Spleen</li>
 					<li>Heart</li>
 				</partsToAffect>
 				<ageFractionChanceCurve>

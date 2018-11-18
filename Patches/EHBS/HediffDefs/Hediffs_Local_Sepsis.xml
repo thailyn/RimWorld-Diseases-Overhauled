@@ -42,4 +42,32 @@
             </li>
         </operations>
     </Operation>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationTest">
+                <xpath>Defs/BodyPartDef[defName="Spleen"]</xpath>
+            </li>
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/HediffDef[defName="Sepsis"]/stages/li[label="minor" or label="moderate" or label="major" or label="serious" or label="severe"]/hediffGivers/li[hediff="Necrosis"]/partsToAffect</xpath>
+                <value>
+                    <li>Spleen</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationTest">
+                <xpath>Defs/BodyPartDef[defName="Spleen"]</xpath>
+            </li>
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/HediffDef[defName="Sepsis"]/stages/li[label="major" or label="serious" or label="severe" or label="extreme" or label="fatal"]/hediffGivers/li[hediff="SecondaryDamage"]/partsToAffect</xpath>
+                <value>
+                    <li>Spleen</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
 </Patch>

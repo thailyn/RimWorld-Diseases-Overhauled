@@ -42,4 +42,18 @@
             </li>
         </operations>
     </Operation>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationTest">
+                <xpath>Defs/BodyPartDef[defName="Spleen"]</xpath>
+            </li>
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/HediffGiverSetDef[defName="OrganicStandard"]/hediffGivers/li[hediff="Necrosis"]/partsToAffect</xpath>
+                <value>
+                    <li>Spleen</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
 </Patch>
