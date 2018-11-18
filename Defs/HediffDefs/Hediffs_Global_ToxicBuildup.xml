@@ -16,7 +16,8 @@
 		</comps>
 		<stages>
 			<li>
-				<label>initial-hidden</label>
+				<label>initial</label>
+        		<becomeVisible>false</becomeVisible>
 			</li>
 			<li>
 				<label>initial</label>
