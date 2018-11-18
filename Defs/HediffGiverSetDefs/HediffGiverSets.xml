@@ -468,10 +468,7 @@
 					<li>Humerus</li>
 					<li>Clavicle</li>
 					<li>Tibia</li>
-					<li>Fibula</li>
-					<li>Patella</li>
 					<li>Radius</li>
-					<li>Ulna</li>
 					<li>Arm</li>
 					<li>Leg</li>
 					<li>Hand</li>
@@ -572,10 +569,7 @@
 					<li>Humerus</li>
 					<li>Clavicle</li>
 					<li>Tibia</li>
-					<li>Fibula</li>
-					<li>Patella</li>
 					<li>Radius</li>
-					<li>Ulna</li>
 				</partsToAffect>
 				<countToAffect>19</countToAffect>
 				<ageFractionChanceCurve>
