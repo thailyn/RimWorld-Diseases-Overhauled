@@ -8,6 +8,9 @@
 		<workerClass>Recipe_RemoveHediff</workerClass>
 		<jobString>Excising Voight-Bernstein tumor.</jobString>
 		<workAmount>4500</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
 		<removesHediff>VoightBernsteinDiseaseTumors</removesHediff>
 		<successfullyRemovedHediffMessage>{0} has successfully excised {1}'s Voight-Bernstein tumor.</successfullyRemovedHediffMessage>
 		<surgerySuccessChanceFactor>0.85</surgerySuccessChanceFactor>

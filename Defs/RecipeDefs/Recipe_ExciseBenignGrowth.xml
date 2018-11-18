@@ -8,6 +8,9 @@
 		<workerClass>Recipe_RemoveHediff</workerClass>
 		<jobString>Excising benign growth.</jobString>
 		<workAmount>4500</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
 		<removesHediff>BenignGrowth</removesHediff>
 		<successfullyRemovedHediffMessage>{0} has successfully excised {1}'s benign growth.</successfullyRemovedHediffMessage>
 		<surgerySuccessChanceFactor>0.7</surgerySuccessChanceFactor>
