@@ -12,6 +12,9 @@
 		<successfullyRemovedHediffMessage>{0} has successfully excised {1}'s Voight-Bernstein tumor.</successfullyRemovedHediffMessage>
 		<surgerySuccessChanceFactor>0.85</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.15</deathOnFailedSurgeryChance>
+		<skillRequirements>
+			<Medicine>7</Medicine>
+		</skillRequirements>
 		<ingredients>
 			<li>
 				<filter>
@@ -27,9 +30,6 @@
 				<li>Medicine</li>
 			</categories>
 		</fixedIngredientFilter>
-		<skillRequirements>
-			<Medicine>7</Medicine>
-		</skillRequirements>
 	</RecipeDef>
 
 </Defs>

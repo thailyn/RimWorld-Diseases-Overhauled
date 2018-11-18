@@ -9,6 +9,9 @@
 		<hideBodyPartNames>true</hideBodyPartNames>
 		<!--targetsBodyPart>false</targetsBodyPart-->
 		<workAmount>200</workAmount>
+		<skillRequirements>
+			<Medicine>10</Medicine>
+		</skillRequirements>
 		<ingredients>
 			<li>
 				<filter>
@@ -30,9 +33,6 @@
 		<recipeUsers>
 			<li>Human</li>
 		</recipeUsers>
-		<skillRequirements>
-			<Medicine>10</Medicine>
-		</skillRequirements>
 	</RecipeDef>
 
 	<RecipeDef ParentName="InducedComa">
