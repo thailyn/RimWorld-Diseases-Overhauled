@@ -8,10 +8,16 @@
 		<workerClass>Recipe_RemoveHediff</workerClass>
 		<jobString>Excising necrosis.</jobString>
 		<workAmount>4500</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
 		<removesHediff>Necrosis</removesHediff>
 		<successfullyRemovedHediffMessage>{0} has successfully excised {1}'s necrosis.</successfullyRemovedHediffMessage>
 		<surgerySuccessChanceFactor>0.7</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.25</deathOnFailedSurgeryChance>
+		<skillRequirements>
+			<Medicine>10</Medicine>
+		</skillRequirements>
 		<ingredients>
 			<li>
 				<filter>
@@ -30,9 +36,6 @@
 				<li>MedicineHerbal</li>
 			</disallowedThingDefs>
 		</fixedIngredientFilter>
-		<skillRequirements>
-			<Medicine>10</Medicine>
-		</skillRequirements>
 	</RecipeDef>
 
 </Defs>

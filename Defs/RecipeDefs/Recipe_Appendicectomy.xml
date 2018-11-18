@@ -8,9 +8,15 @@
 		<jobString>Removing appendix.</jobString>
 		<workerClass>Recipe_RemoveHediff</workerClass>
 		<workAmount>2000</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
 		<removesHediff>Appendicitis</removesHediff>
 		<hideBodyPartNames>true</hideBodyPartNames>
 		<successfullyRemovedHediffMessage>{0} has successfully removed {1}'s appendix.</successfullyRemovedHediffMessage>
+		<skillRequirements>
+			<Medicine>5</Medicine>
+		</skillRequirements>
 		<ingredients>
 			<li>
 				<filter>
@@ -26,9 +32,6 @@
 				<li>Medicine</li>
 			</categories>
 		</fixedIngredientFilter>
-		<skillRequirements>
-			<Medicine>5</Medicine>
-		</skillRequirements>
 	</RecipeDef>
 
 </Defs>

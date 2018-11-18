@@ -8,9 +8,15 @@
 		<jobString>Extracting tooth.</jobString>
 		<workerClass>Recipe_RemoveHediff</workerClass>
 		<workAmount>1000</workAmount>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
 		<removesHediff>Toothache</removesHediff>
 		<hideBodyPartNames>true</hideBodyPartNames>
 		<successfullyRemovedHediffMessage>{0} has successfully removed {1}'s sore tooth.</successfullyRemovedHediffMessage>
+		<skillRequirements>
+			<Medicine>2</Medicine>
+		</skillRequirements>
 		<ingredients>
 			<li>
 				<filter>
@@ -26,9 +32,6 @@
 				<li>Medicine</li>
 			</categories>
 		</fixedIngredientFilter>
-		<skillRequirements>
-			<Medicine>2</Medicine>
-		</skillRequirements>
 	</RecipeDef>
 
 </Defs>
