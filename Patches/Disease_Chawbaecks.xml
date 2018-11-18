@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-    <!-- Stage 4 -->
     <Operation Class="PatchOperationSequence">
         <success>Always</success>
         <operations>
@@ -8,7 +7,7 @@
                 <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[3]/hediffGivers/li/partsToAffect</xpath>
+                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[3 or 4 or 5 or 6 or 7 or 8 or 9]/hediffGivers/li/partsToAffect</xpath>
                 <value>
                     <li>Patella</li>
                 </value>
@@ -22,7 +21,7 @@
                 <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[3]/hediffGivers/li/partsToAffect</xpath>
+                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[3 or 4 or 5 or 6 or 7 or 8 or 9]/hediffGivers/li/partsToAffect</xpath>
                 <value>
                     <li>Fibula</li>
                 </value>
@@ -36,271 +35,7 @@
                 <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[3]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Ulna</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    
-    <!-- Stage 5 -->
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[4]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Patella</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[4]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Fibula</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[4]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Ulna</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    
-    <!-- Stage 6 -->
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[5]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Patella</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[5]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Fibula</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[5]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Ulna</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    
-    <!-- Stage 7 -->
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[6]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Patella</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[6]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Fibula</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[6]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Ulna</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    
-    <!-- Stage 8 -->
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[7]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Patella</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[7]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Fibula</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[7]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Ulna</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    
-    <!-- Stage 9 -->
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[8]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Patella</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[8]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Fibula</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[8]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Ulna</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    
-    <!-- Stage 10 -->
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[9]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Patella</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[9]/hediffGivers/li/partsToAffect</xpath>
-                <value>
-                    <li>Fibula</li>
-                </value>
-            </li>
-        </operations>
-    </Operation>
-    <Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
-            </li>
-            <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[9]/hediffGivers/li/partsToAffect</xpath>
+                <xpath>/Defs/HediffDef[defName="Chawbaecks"]/stages/li[3 or 4 or 5 or 6 or 7 or 8 or 9]/hediffGivers/li/partsToAffect</xpath>
                 <value>
                     <li>Ulna</li>
                 </value>
