@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>HeartArteryBlockage</defName>
 		<label>artery blockage</label>
+		<labelNoun>an artery blockage</labelNoun>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<lethalSeverity>1</lethalSeverity>
 		<comps>
@@ -17,7 +18,8 @@
 		</comps>
 		<stages>
 			<li>
-				<label>hidden</label>
+				<label>minor</label>
+        		<becomeVisible>false</becomeVisible>
 			</li>
 			<li>
 				<minSeverity>0.025</minSeverity>

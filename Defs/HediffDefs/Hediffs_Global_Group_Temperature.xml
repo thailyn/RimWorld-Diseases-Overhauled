@@ -8,7 +8,8 @@
 		<lethalSeverity>1</lethalSeverity>
 		<stages>
 			<li>
-				<label>initial-hidden</label>
+				<label>sweating</label>
+        		<becomeVisible>false</becomeVisible>
 			</li>
 			<li>
 				<label>sweating</label>
@@ -130,7 +131,8 @@
 		<lethalSeverity>1</lethalSeverity>
 		<stages>
 			<li>
-				<label>shivering-hidden</label>
+				<label>shivering</label>
+        		<becomeVisible>false</becomeVisible>
 			</li>
 			<li>
 				<label>shivering</label>
