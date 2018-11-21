@@ -3,6 +3,7 @@
 ## Version 1.5.3
 
 - Fixed missing notification letters for infections (#18)
+- Add Manifest.xml for Fluffy's ModManager
 
 ## Version 1.5.2
 
