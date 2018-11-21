@@ -118,7 +118,7 @@
 						<hediff>EncapsulatedTuberculosis</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Eye</li>
@@ -175,7 +175,7 @@
 						<hediff>EncapsulatedTuberculosis</hediff>
 						<mtbDays>2.5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Eye</li>

@@ -36,6 +36,7 @@
 							<li>Heart</li>
 							<li>Stomach</li>
 							<li>Lung</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 						</partsToAffect>
 					</li>
@@ -87,6 +88,7 @@
 							<li>Heart</li>
 							<li>Stomach</li>
 							<li>Lung</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 						</partsToAffect>
 					</li>

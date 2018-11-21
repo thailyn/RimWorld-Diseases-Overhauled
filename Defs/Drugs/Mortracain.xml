@@ -121,7 +121,7 @@
 				<partsToAffect>
 					<li>Stomach</li>
 					<li>Kidney</li>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 				</partsToAffect>
 			</li>
 		</onGeneratedAddictedEvents>
@@ -154,7 +154,7 @@
 				<partsToAffect>
 					<li>Stomach</li>
 					<li>Kidney</li>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 				</partsToAffect>
 			</li>
 		</hediffGivers>

@@ -98,7 +98,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>15</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Heart</li>
@@ -137,7 +137,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Heart</li>

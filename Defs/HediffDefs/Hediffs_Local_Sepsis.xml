@@ -68,7 +68,7 @@
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
@@ -111,7 +111,7 @@
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
@@ -158,7 +158,7 @@
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
@@ -169,7 +169,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Heart</li>
@@ -221,7 +221,7 @@
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
@@ -232,7 +232,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Heart</li>
@@ -288,7 +288,7 @@
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
@@ -299,7 +299,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>2.5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Heart</li>
@@ -346,7 +346,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>1</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Heart</li>
@@ -407,7 +407,7 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>0.5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Heart</li>

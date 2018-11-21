@@ -131,7 +131,7 @@
 				<chance>0.15</chance>
 				<partsToAffect>
 					<li>Kidney</li>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 				</partsToAffect>
 			</li>
 		</onGeneratedAddictedEvents>
@@ -163,7 +163,7 @@
 				<baseMtbDays>120</baseMtbDays>
 				<partsToAffect>
 					<li>Kidney</li>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 				</partsToAffect>
 			</li>
 		</hediffGivers>

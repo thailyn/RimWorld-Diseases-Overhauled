@@ -438,7 +438,7 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>Cirrhosis</hediff>
 				<partsToAffect>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 				</partsToAffect>
 				<countToAffect>2</countToAffect>
 				<ageFractionChanceCurve>
@@ -475,7 +475,7 @@
 					<li>Foot</li>
 					<li>Finger</li>
 					<li>Toe</li>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 					<li>Kidney</li>
 					<li>Lung</li>
 					<li>Stomach</li>

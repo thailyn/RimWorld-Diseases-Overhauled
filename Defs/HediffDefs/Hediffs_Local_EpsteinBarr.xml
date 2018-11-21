@@ -58,7 +58,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>1800</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -120,7 +120,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>1200</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
