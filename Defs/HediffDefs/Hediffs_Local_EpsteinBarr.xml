@@ -22,6 +22,7 @@
         		<becomeVisible>false</becomeVisible>
 			</li>
 			<li>
+				<label>moderate</label>
 				<minSeverity>0.15</minSeverity>
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
@@ -84,6 +85,7 @@
 				</hediffGivers>
 			</li>
 			<li>
+				<label>extreme</label>
 				<minSeverity>0.95</minSeverity>
 				<hediffGivers>
 					<li Class="HediffGiver_Random">

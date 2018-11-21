@@ -70,4 +70,32 @@
             </li>
         </operations>
     </Operation>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationTest">
+                <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Sepsis"]/stages/li[label="minor" or label="moderate" or label="major" or label="serious" or label="severe"]/hediffGivers/li[hediff="Necrosis"]/partsToAffect/li[text()="Liver"]</xpath>
+                <value>
+                    <li>LobeLiver</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationTest">
+                <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Sepsis"]/stages/li[label="major" or label="serious" or label="severe" or label="extreme" or label="fatal"]/hediffGivers/li[hediff="SecondaryDamage"]/partsToAffect/li[text()="Liver"]</xpath>
+                <value>
+                    <li>LobeLiver</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
 </Patch>

@@ -56,4 +56,18 @@
             </li>
         </operations>
     </Operation>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationTest">
+                <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/HediffDef[defName="Tuberculosis"]/stages/li[label="severe" or label="extreme"]/hediffGivers/li[hediff="EncapsulatedTuberculosis"]/partsToAffect/li[text()="Liver"]</xpath>
+                <value>
+                    <li>LobeLiver</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
 </Patch>
