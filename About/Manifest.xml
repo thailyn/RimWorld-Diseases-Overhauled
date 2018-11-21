@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>DiseasesOverhauled</identifier>
+    <version>1.5.2</version>
+    <dependencies>
+        <li>1559033367</li> <!-- Extended Human Body Simulation -->
+    </dependencies>
+    <incompatibleWith>
+    </incompatibleWith>
+    <loadBefore>
+    </loadBefore>
+    <loadAfter>
+        <li>1559033367</li> <!-- Extended Human Body Simulation -->
+    </loadAfter>
+    <suggests>
+    </suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://raw.githubusercontent.com/Mythos/RimWorld-Diseases-Overhauled/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/Mythos/RimWorld-Diseases-Overhauled/releases/latest</downloadUri>
+</Manifest>
