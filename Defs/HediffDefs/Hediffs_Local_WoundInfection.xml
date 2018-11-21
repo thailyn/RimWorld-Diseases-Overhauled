@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>WoundInfection</defName>
 		<label>infection</label>
+    	<labelNoun>an infection</labelNoun>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>
 		<tendable>true</tendable>
@@ -13,14 +14,17 @@
 				<severityPerDayTended>-0.53</severityPerDayTended>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
-				<immunityPerDayNotSick>-0.4</immunityPerDayNotSick>
-				<immunityPerDaySick>0.66</immunityPerDaySick>
 				<severityPerDayNotImmune>0.84</severityPerDayNotImmune>
-				<severityPerDayImmune>-0.7</severityPerDayImmune>
+				<immunityPerDaySick>0.6441</immunityPerDaySick>
+				<severityPerDayImmune>-0.70</severityPerDayImmune>
+				<immunityPerDayNotSick>-0.40</immunityPerDayNotSick>
 				<severityPerDayNotImmuneRandomFactor>
 					<min>0.9</min>
 					<max>1.1</max>
 				</severityPerDayNotImmuneRandomFactor>
+			</li>
+			<li Class="HediffCompProperties_Discoverable">
+				<sendLetterWhenDiscovered>true</sendLetterWhenDiscovered>
 			</li>
 		</comps>
 		<stages>
