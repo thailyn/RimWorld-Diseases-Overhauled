@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.5.3
+
+- Fixed missing notification letters for infections (#18)
+
 ## Version 1.5.2
 
 - Fixed initial stages not being hidden (#12)
