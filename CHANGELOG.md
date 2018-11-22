@@ -3,6 +3,7 @@
 ## Version 1.6.0
 
 - Extended Human Body Simulation is no longer required (#8)
+- Optimized XPath selectors of patches
 
 ## Version 1.5.3
 

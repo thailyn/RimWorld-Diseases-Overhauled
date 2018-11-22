@@ -7,7 +7,7 @@
                 <xpath>Defs/BodyPartDef[defName="Patella"]</xpath>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Plague"]/stages/li[label="extreme" or label="fatal"]/hediffGivers/li[2]/partsToAffect</xpath>
+                <xpath>Defs/HediffDef[defName="Plague"]/stages/li[label="extreme" or label="fatal"]/hediffGivers/li[2]/partsToAffect</xpath>
                 <value>
                     <li>Patella</li>
                 </value>
@@ -21,7 +21,7 @@
                 <xpath>Defs/BodyPartDef[defName="Fibula"]</xpath>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Plague"]/stages/li[label="extreme" or label="fatal"]/hediffGivers/li[2]/partsToAffect</xpath>
+                <xpath>Defs/HediffDef[defName="Plague"]/stages/li[label="extreme" or label="fatal"]/hediffGivers/li[2]/partsToAffect</xpath>
                 <value>
                     <li>Fibula</li>
                 </value>
@@ -35,7 +35,7 @@
                 <xpath>Defs/BodyPartDef[defName="Ulna"]</xpath>
             </li>
             <li Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Plague"]/stages/li[6 or 7]/hediffGivers/li[2]/partsToAffect</xpath>
+                <xpath>Defs/HediffDef[defName="Plague"]/stages/li[6 or 7]/hediffGivers/li[2]/partsToAffect</xpath>
                 <value>
                     <li>Ulna</li>
                 </value>
