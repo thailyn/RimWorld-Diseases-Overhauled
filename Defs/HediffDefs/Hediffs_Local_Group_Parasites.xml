@@ -170,7 +170,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>EncapsulatedMuscleParasites</hediff>
-						<mtbDays>15</mtbDays>
+						<mtbDays>30</mtbDays>
 						<partsToAffect>
 							<li>Torso</li>
 							<li>Head</li>
