@@ -4,6 +4,7 @@
 
 - Extended Human Body Simulation is no longer required (#8)
 - Small fixes for missing attributes from Vanilla definitions
+- Optimized XPath selectors of patches
 
 ## Version 1.5.3
 

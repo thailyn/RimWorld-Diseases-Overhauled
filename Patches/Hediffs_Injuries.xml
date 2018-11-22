@@ -3,7 +3,7 @@
 <Patch>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/HediffDef[defName="Misc"]/comps</xpath>
+		<xpath>Defs/HediffDef[defName="Misc"]/comps</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.10</infectionChance>
@@ -12,7 +12,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Burn"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Burn"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.40</infectionChance>
@@ -21,7 +21,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Crush"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Crush"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.25</infectionChance>
@@ -30,7 +30,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/HediffDef[defName="Crack"]/comps</xpath>
+		<xpath>Defs/HediffDef[defName="Crack"]/comps</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.05</infectionChance>
@@ -39,7 +39,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Cut"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Cut"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.25</infectionChance>
@@ -48,7 +48,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/HediffDef[defName="SurgicalCut"]/comps</xpath>
+		<xpath>Defs/HediffDef[defName="SurgicalCut"]/comps</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.10</infectionChance>
@@ -57,7 +57,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Scratch"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Scratch"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.15</infectionChance>
@@ -66,7 +66,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Bite"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Bite"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.50</infectionChance>
@@ -75,7 +75,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Stab"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Stab"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.25</infectionChance>
@@ -84,7 +84,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Gunshot"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Gunshot"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.25</infectionChance>
@@ -93,7 +93,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Shredded"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Shredded"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.25</infectionChance>
@@ -102,7 +102,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/HediffDef[defName="Bruise"]/comps</xpath>
+		<xpath>Defs/HediffDef[defName="Bruise"]/comps</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.025</infectionChance>
@@ -111,7 +111,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/HediffDef[defName="Frostbite"]/comps/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="Frostbite"]/comps/li[2]</xpath>
 		<value>
 			<li Class="HediffCompProperties_Infecter">
 				<infectionChance>0.40</infectionChance>
