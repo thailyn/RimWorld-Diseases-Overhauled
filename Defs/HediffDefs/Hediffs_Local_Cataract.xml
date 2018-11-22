@@ -4,6 +4,8 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Cataract</defName>
 		<label>eyesight loss</label>
+		<labelNoun>a cataract</labelNoun>
+		<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<comps>

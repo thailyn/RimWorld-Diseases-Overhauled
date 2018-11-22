@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>BadBack</defName>
 		<label>bad back</label>
+    	<labelNoun>a bad back</labelNoun>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<comps>
