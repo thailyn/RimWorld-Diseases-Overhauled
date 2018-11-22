@@ -47,7 +47,7 @@
 						<hediff>EncapsulatedMalaria</hediff>
 						<mtbDays>60</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -76,14 +76,14 @@
 						<hediff>EncapsulatedMalaria</hediff>
 						<mtbDays>45</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>60</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -112,21 +112,21 @@
 						<hediff>EncapsulatedMalaria</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Inflammation</hediff>
 						<mtbDays>15</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>45</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -157,21 +157,21 @@
 						<hediff>EncapsulatedMalaria</hediff>
 						<mtbDays>15</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Inflammation</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">

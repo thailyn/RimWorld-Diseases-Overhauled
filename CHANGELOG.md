@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.6.0
+
+- Extended Human Body Simulation is no longer required (#8)
+
 ## Version 1.5.3
 
 - Fixed missing notification letters for infections (#18)

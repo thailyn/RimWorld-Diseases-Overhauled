@@ -114,10 +114,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 							<li>Brain</li>
 						</partsToAffect>

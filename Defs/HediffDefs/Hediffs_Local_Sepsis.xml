@@ -61,21 +61,17 @@
 							<li>Humerus</li>
 							<li>Clavicle</li>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 							<li>Arm</li>
 							<li>Leg</li>
 							<li>Hand</li>
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -108,21 +104,17 @@
 							<li>Humerus</li>
 							<li>Clavicle</li>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 							<li>Arm</li>
 							<li>Leg</li>
 							<li>Hand</li>
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -159,21 +151,17 @@
 							<li>Humerus</li>
 							<li>Clavicle</li>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 							<li>Arm</li>
 							<li>Leg</li>
 							<li>Hand</li>
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -181,10 +169,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 							<li>Brain</li>
 						</partsToAffect>
@@ -227,21 +214,17 @@
 							<li>Humerus</li>
 							<li>Clavicle</li>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 							<li>Arm</li>
 							<li>Leg</li>
 							<li>Hand</li>
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -249,10 +232,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 							<li>Brain</li>
 						</partsToAffect>
@@ -299,21 +281,17 @@
 							<li>Humerus</li>
 							<li>Clavicle</li>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 							<li>Arm</li>
 							<li>Leg</li>
 							<li>Hand</li>
 							<li>Foot</li>
 							<li>Finger</li>
 							<li>Toe</li>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Stomach</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 						</partsToAffect>
 					</li>
@@ -321,10 +299,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>2.5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 							<li>Brain</li>
 						</partsToAffect>
@@ -369,10 +346,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>1</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 							<li>Brain</li>
 						</partsToAffect>
@@ -431,10 +407,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>0.5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
-							<li>Spleen</li>
 							<li>Heart</li>
 							<li>Brain</li>
 						</partsToAffect>

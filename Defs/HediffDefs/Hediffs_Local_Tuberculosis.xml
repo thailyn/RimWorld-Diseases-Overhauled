@@ -118,11 +118,10 @@
 						<hediff>EncapsulatedTuberculosis</hediff>
 						<mtbDays>5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Eye</li>
-							<li>Spleen</li>
 							<li>Spine</li>
 							<li>Pelvis</li>
 							<li>Sternum</li>
@@ -176,11 +175,10 @@
 						<hediff>EncapsulatedTuberculosis</hediff>
 						<mtbDays>2.5</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 							<li>Kidney</li>
 							<li>Lung</li>
 							<li>Eye</li>
-							<li>Spleen</li>
 							<li>Brain</li>
 							<li>Spine</li>
 							<li>Pelvis</li>
@@ -189,10 +187,7 @@
 							<li>Humerus</li>
 							<li>Clavicle</li>
 							<li>Tibia</li>
-							<li>Fibula</li>
-							<li>Patella</li>
 							<li>Radius</li>
-							<li>Ulna</li>
 						</partsToAffect>
 						<countToAffect>4</countToAffect>
 					</li>

@@ -130,10 +130,9 @@
 						<hediff>SecondaryDamage</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>Spleen</li>
 							<li>Stomach</li>
-							<li>LobeLiver</li>
 							<li>Kidney</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>

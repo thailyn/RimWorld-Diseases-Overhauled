@@ -50,7 +50,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>180</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -58,14 +58,14 @@
 						<hediff>Carcinoma</hediff>
 						<mtbDays>90</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Inflammation</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -78,7 +78,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>60</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -86,14 +86,14 @@
 						<hediff>Carcinoma</hediff>
 						<mtbDays>30</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
 						<hediff>Inflammation</hediff>
 						<mtbDays>10</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
