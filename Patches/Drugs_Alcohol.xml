@@ -9,7 +9,7 @@
 				<success>Invert</success>
             </li>
 			<li Class="PatchOperationReplace">
-				<xpath>*/ChemicalDef[defName="Alcohol"]/onGeneratedAddictedEvents</xpath>
+				<xpath>Defs/ChemicalDef[defName="Alcohol"]/onGeneratedAddictedEvents</xpath>
 				<value>
 					<onGeneratedAddictedEvents>
 						<li>
@@ -39,7 +39,7 @@
                 <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
             </li>
 			<li Class="PatchOperationReplace">
-				<xpath>*/ChemicalDef[defName="Alcohol"]/onGeneratedAddictedEvents</xpath>
+				<xpath>Defs/ChemicalDef[defName="Alcohol"]/onGeneratedAddictedEvents</xpath>
 				<value>
 					<onGeneratedAddictedEvents>
 						<li>
@@ -72,7 +72,7 @@
 				<success>Invert</success>
             </li>
 			<li Class="PatchOperationReplace">
-				<xpath>*/HediffDef[defName="AlcoholTolerance"]/hediffGivers</xpath>
+				<xpath>Defs/HediffDef[defName="AlcoholTolerance"]/hediffGivers</xpath>
 				<value>
 					<hediffGivers>
 						<li Class="HediffGiver_RandomDrugEffect">
@@ -112,7 +112,7 @@
                 <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
             </li>
 			<li Class="PatchOperationReplace">
-				<xpath>*/HediffDef[defName="AlcoholTolerance"]/hediffGivers</xpath>
+				<xpath>Defs/HediffDef[defName="AlcoholTolerance"]/hediffGivers</xpath>
 				<value>
 					<hediffGivers>
 						<li Class="HediffGiver_RandomDrugEffect">
