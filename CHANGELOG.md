@@ -5,6 +5,8 @@
 - Extended Human Body Simulation is no longer required (#8)
 - Small fixes for missing attributes from Vanilla definitions
 - Optimized XPath selectors of patches
+- Decreased chance of getting encapsulated pathogens from muscle parasites (#20)
+- Decreased chance of getting secondary damage from gut worms (#20)
 
 ## Version 1.5.3
 
