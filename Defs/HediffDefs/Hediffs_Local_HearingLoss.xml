@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>HearingLoss</defName>
 		<label>hearing loss</label>
+    	<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<comps>

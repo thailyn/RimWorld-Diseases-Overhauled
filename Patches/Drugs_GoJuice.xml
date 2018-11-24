@@ -3,7 +3,7 @@
 <Patch>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/HediffDef[defName="GoJuiceAddiction"]/stages/li[2]</xpath>
+		<xpath>Defs/HediffDef[defName="GoJuiceAddiction"]/stages/li[2]</xpath>
 		<value>
 			<hediffGivers>
 				<li Class="HediffGiver_Random">

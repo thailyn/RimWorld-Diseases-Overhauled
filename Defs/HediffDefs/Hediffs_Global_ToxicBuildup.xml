@@ -9,6 +9,7 @@
 		<lethalSeverity>1</lethalSeverity>
 		<makesSickThought>true</makesSickThought>
 		<scenarioCanAdd>true</scenarioCanAdd>
+    	<taleOnVisible>ToxicityRevealed</taleOnVisible>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">
 				<severityPerDayNotImmune>-0.08</severityPerDayNotImmune>

@@ -2,7 +2,7 @@
 <Patch>
 
 	<!--Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="TemperateForest"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="TemperateForest"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -12,7 +12,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="TropicalRainforest"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="TropicalRainforest"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -22,7 +22,7 @@
 	</Operation-->
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="BorealForest"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="BorealForest"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -32,7 +32,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="Tundra"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="Tundra"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -42,7 +42,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="IceSheet"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="IceSheet"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -52,7 +52,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="SeaIce"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="SeaIce"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -62,7 +62,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="AridShrubland"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="AridShrubland"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -72,7 +72,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="Desert"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="Desert"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
@@ -82,7 +82,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/BiomeDef[defName="ExtremeDesert"]/diseases</xpath>
+		<xpath>Defs/BiomeDef[defName="ExtremeDesert"]/diseases</xpath>
 		<value>
 			<li>
 				<diseaseInc>Disease_KindredDickVirus</diseaseInc>

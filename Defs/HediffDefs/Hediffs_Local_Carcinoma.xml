@@ -5,6 +5,7 @@
 		<defName>Carcinoma</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>carcinoma</label>
+		<labelNoun>a carcinoma</labelNoun>
 		<initialSeverity>0.01</initialSeverity>
 		<chanceToCauseNoPain>0.3</chanceToCauseNoPain>
 		<tendable>true</tendable>

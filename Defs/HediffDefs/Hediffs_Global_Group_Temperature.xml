@@ -6,6 +6,7 @@
 		<defaultLabelColor>(0.8, 0.8, 0.35)</defaultLabelColor>
 		<label>heatstroke</label>
 		<lethalSeverity>1</lethalSeverity>
+    	<taleOnVisible>HeatstrokeRevealed</taleOnVisible>
 		<stages>
 			<li>
 				<label>sweating</label>
@@ -129,6 +130,7 @@
 		<defaultLabelColor>(0.8, 0.8, 1)</defaultLabelColor>
 		<label>hypothermia</label>
 		<lethalSeverity>1</lethalSeverity>
+    	<taleOnVisible>HypothermiaRevealed</taleOnVisible>
 		<stages>
 			<li>
 				<label>shivering</label>

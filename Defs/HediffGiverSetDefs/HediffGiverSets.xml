@@ -438,7 +438,7 @@
 			<li Class="HediffGiver_Birthday">
 				<hediff>Cirrhosis</hediff>
 				<partsToAffect>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 				</partsToAffect>
 				<countToAffect>2</countToAffect>
 				<ageFractionChanceCurve>
@@ -468,21 +468,17 @@
 					<li>Humerus</li>
 					<li>Clavicle</li>
 					<li>Tibia</li>
-					<li>Fibula</li>
-					<li>Patella</li>
 					<li>Radius</li>
-					<li>Ulna</li>
 					<li>Arm</li>
 					<li>Leg</li>
 					<li>Hand</li>
 					<li>Foot</li>
 					<li>Finger</li>
 					<li>Toe</li>
-					<li>LobeLiver</li>
+					<li>Liver</li>
 					<li>Kidney</li>
 					<li>Lung</li>
 					<li>Stomach</li>
-					<li>Spleen</li>
 					<li>Heart</li>
 				</partsToAffect>
 				<ageFractionChanceCurve>
@@ -572,10 +568,7 @@
 					<li>Humerus</li>
 					<li>Clavicle</li>
 					<li>Tibia</li>
-					<li>Fibula</li>
-					<li>Patella</li>
 					<li>Radius</li>
-					<li>Ulna</li>
 				</partsToAffect>
 				<countToAffect>19</countToAffect>
 				<ageFractionChanceCurve>

@@ -3,7 +3,6 @@
     <identifier>DiseasesOverhauled</identifier>
     <version>1.5.2</version>
     <dependencies>
-        <li>1559033367</li> <!-- Extended Human Body Simulation -->
     </dependencies>
     <incompatibleWith>
     </incompatibleWith>

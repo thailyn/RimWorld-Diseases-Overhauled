@@ -22,6 +22,7 @@
         		<becomeVisible>false</becomeVisible>
 			</li>
 			<li>
+				<label>moderate</label>
 				<minSeverity>0.15</minSeverity>
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
@@ -58,7 +59,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>1800</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>
@@ -84,6 +85,7 @@
 				</hediffGivers>
 			</li>
 			<li>
+				<label>extreme</label>
 				<minSeverity>0.95</minSeverity>
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
@@ -120,7 +122,7 @@
 						<hediff>Cirrhosis</hediff>
 						<mtbDays>1200</mtbDays>
 						<partsToAffect>
-							<li>LobeLiver</li>
+							<li>Liver</li>
 						</partsToAffect>
 						<countToAffect>2</countToAffect>
 					</li>

@@ -8,6 +8,7 @@
 		<lethalSeverity>0.9</lethalSeverity>
 		<minSeverity>0.001</minSeverity>
 		<tendable>true</tendable>
+		<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">
 				<severityPerDayNotImmune>0.15</severityPerDayNotImmune>

@@ -128,12 +128,11 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>SecondaryDamage</hediff>
-						<mtbDays>30</mtbDays>
+						<mtbDays>45</mtbDays>
 						<partsToAffect>
-							<li>Spleen</li>
 							<li>Stomach</li>
-							<li>LobeLiver</li>
 							<li>Kidney</li>
+							<li>Liver</li>
 						</partsToAffect>
 					</li>
 				</hediffGivers>
@@ -171,7 +170,7 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>EncapsulatedMuscleParasites</hediff>
-						<mtbDays>15</mtbDays>
+						<mtbDays>60</mtbDays>
 						<partsToAffect>
 							<li>Torso</li>
 							<li>Head</li>
