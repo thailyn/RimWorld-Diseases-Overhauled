@@ -211,21 +211,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -249,21 +235,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -287,21 +259,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -325,21 +283,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -363,21 +307,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -401,21 +331,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -439,21 +355,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -477,21 +379,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -515,21 +403,7 @@
 						</partsToAffect>
 					</li>
 					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Shoulder</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Leg</li>
-						</partsToAffect>
-					</li>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Leg</li>
@@ -1004,480 +878,6 @@
 				<hediffGivers>
 					<li Class="HediffGiver_Random">
 						<hediff>PeripheralPathwayObstructionStageLL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-		</stages>
-	</HediffDef>
-
-	<HediffDef ParentName="PeripheralPathwayObstruction">
-		<defName>PeripheralPathwayObstructionStageRS3</defName>
-		<stages>
-			<li>
-				<label>initial</label>
-				<partEfficiencyOffset>-0.05</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>sparsely</label>
-				<minSeverity>0.1</minSeverity>
-				<partEfficiencyOffset>-0.10</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>minor</label>
-				<minSeverity>0.2</minSeverity>
-				<partEfficiencyOffset>-0.15</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>moderate</label>
-				<minSeverity>0.3</minSeverity>
-				<partEfficiencyOffset>-0.20</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>major</label>
-				<minSeverity>0.4</minSeverity>
-				<partEfficiencyOffset>-0.25</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>serious</label>
-				<minSeverity>0.5</minSeverity>
-				<partEfficiencyOffset>-0.30</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>severe</label>
-				<minSeverity>0.65</minSeverity>
-				<partEfficiencyOffset>-0.35</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>extreme</label>
-				<minSeverity>0.8</minSeverity>
-				<partEfficiencyOffset>-0.40</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>final</label>
-				<minSeverity>1.00</minSeverity>
-				<partEfficiencyOffset>-0.45</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Arm</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-		</stages>
-	</HediffDef>
-
-	<HediffDef ParentName="PeripheralPathwayObstruction">
-		<defName>PeripheralPathwayObstructionStageRS4</defName>
-		<stages>
-			<li>
-				<label>initial</label>
-				<partEfficiencyOffset>-0.05</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>sparsely</label>
-				<minSeverity>0.1</minSeverity>
-				<partEfficiencyOffset>-0.10</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>minor</label>
-				<minSeverity>0.2</minSeverity>
-				<partEfficiencyOffset>-0.15</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>moderate</label>
-				<minSeverity>0.3</minSeverity>
-				<partEfficiencyOffset>-0.20</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>major</label>
-				<minSeverity>0.4</minSeverity>
-				<partEfficiencyOffset>-0.25</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>serious</label>
-				<minSeverity>0.5</minSeverity>
-				<partEfficiencyOffset>-0.30</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>severe</label>
-				<minSeverity>0.65</minSeverity>
-				<partEfficiencyOffset>-0.35</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>extreme</label>
-				<minSeverity>0.8</minSeverity>
-				<partEfficiencyOffset>-0.40</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>final</label>
-				<minSeverity>1.00</minSeverity>
-				<partEfficiencyOffset>-0.45</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRS4</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Hand</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-		</stages>
-	</HediffDef>
-
-	<HediffDef ParentName="PeripheralPathwayObstruction">
-		<defName>PeripheralPathwayObstructionStageRL3</defName>
-		<stages>
-			<li>
-				<label>initial</label>
-				<partEfficiencyOffset>-0.05</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>sparsely</label>
-				<minSeverity>0.1</minSeverity>
-				<partEfficiencyOffset>-0.10</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>minor</label>
-				<minSeverity>0.2</minSeverity>
-				<partEfficiencyOffset>-0.15</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>moderate</label>
-				<minSeverity>0.3</minSeverity>
-				<partEfficiencyOffset>-0.20</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>major</label>
-				<minSeverity>0.4</minSeverity>
-				<partEfficiencyOffset>-0.25</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>serious</label>
-				<minSeverity>0.5</minSeverity>
-				<partEfficiencyOffset>-0.30</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>severe</label>
-				<minSeverity>0.65</minSeverity>
-				<partEfficiencyOffset>-0.35</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>extreme</label>
-				<minSeverity>0.8</minSeverity>
-				<partEfficiencyOffset>-0.40</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
-						<mtbDays>20</mtbDays>
-						<partsToAffect>
-							<li>Foot</li>
-						</partsToAffect>
-					</li>
-				</hediffGivers>
-				<statOffsets>
-					<PsychicSensitivity>-0.05</PsychicSensitivity>
-				</statOffsets>
-			</li>
-			<li>
-				<label>final</label>
-				<minSeverity>1.00</minSeverity>
-				<partEfficiencyOffset>-0.45</partEfficiencyOffset>
-				<hediffGivers>
-					<li Class="HediffGiver_Random">
-						<hediff>PeripheralPathwayObstructionStageRL3</hediff>
 						<mtbDays>20</mtbDays>
 						<partsToAffect>
 							<li>Foot</li>

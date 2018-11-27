@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.6.1
+
+- Fixed peripheral pathway obstruction occurring two times on the same body part (#24)
+
 ## Version 1.6.0
 
 - Extended Human Body Simulation is no longer required (#8)
