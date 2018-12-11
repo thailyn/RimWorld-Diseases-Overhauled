@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.6.2
+
+- Updated in game mod description
+
 ## Version 1.6.1
 
 - Fixed peripheral pathway obstruction occurring two times on the same body part (#24)
