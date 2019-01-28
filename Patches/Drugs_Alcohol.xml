@@ -2,12 +2,12 @@
 
 <Patch>
 	<Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
 				<success>Invert</success>
-            </li>
+			</li>
 			<li Class="PatchOperationReplace">
 				<xpath>Defs/ChemicalDef[defName="Alcohol"]/onGeneratedAddictedEvents</xpath>
 				<value>
@@ -30,14 +30,14 @@
 					</onGeneratedAddictedEvents>
 				</value>
 			</li>
-        </operations>
-    </Operation>
+		</operations>
+	</Operation>
 	<Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
-            </li>
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
+			</li>
 			<li Class="PatchOperationReplace">
 				<xpath>Defs/ChemicalDef[defName="Alcohol"]/onGeneratedAddictedEvents</xpath>
 				<value>
@@ -60,17 +60,17 @@
 					</onGeneratedAddictedEvents>
 				</value>
 			</li>
-        </operations>
-    </Operation>
+		</operations>
+	</Operation>
 
-	
+
 	<Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
 				<success>Invert</success>
-            </li>
+			</li>
 			<li Class="PatchOperationReplace">
 				<xpath>Defs/HediffDef[defName="AlcoholTolerance"]/hediffGivers</xpath>
 				<value>
@@ -103,14 +103,14 @@
 					</hediffGivers>
 				</value>
 			</li>
-        </operations>
-    </Operation>
+		</operations>
+	</Operation>
 	<Operation Class="PatchOperationSequence">
-        <success>Always</success>
-        <operations>
-            <li Class="PatchOperationTest">
-                <xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
-            </li>
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>Defs/BodyPartDef[defName="LobeLiver"]</xpath>
+			</li>
 			<li Class="PatchOperationReplace">
 				<xpath>Defs/HediffDef[defName="AlcoholTolerance"]/hediffGivers</xpath>
 				<value>
@@ -143,7 +143,7 @@
 					</hediffGivers>
 				</value>
 			</li>
-        </operations>
-    </Operation>
+		</operations>
+	</Operation>
 
 </Patch>

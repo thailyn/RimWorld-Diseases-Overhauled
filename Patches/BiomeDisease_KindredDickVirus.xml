@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-
-	<!--Operation Class="PatchOperationAdd">
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<!--<Operation Class="PatchOperationAdd">
 		<xpath>Defs/BiomeDef[defName="TemperateForest"]/diseases</xpath>
 		<value>
 			<li>
@@ -9,9 +11,9 @@
 				<commonality>100</commonality>
 			</li>
 		</value>
-	</Operation>
+	</li>
 
-	<Operation Class="PatchOperationAdd">
+	<li Class="PatchOperationAdd">
 		<xpath>Defs/BiomeDef[defName="TropicalRainforest"]/diseases</xpath>
 		<value>
 			<li>
@@ -21,75 +23,77 @@
 		</value>
 	</Operation-->
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="BorealForest"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
-				<commonality>100</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="BorealForest"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_KindredDickVirus</diseaseInc>
+						<commonality>100</commonality>
+					</li>
+				</value>
 			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="Tundra"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
-				<commonality>80</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="Tundra"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_KindredDickVirus</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+				</value>
 			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="IceSheet"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
-				<commonality>80</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="IceSheet"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_KindredDickVirus</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+				</value>
 			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="SeaIce"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
-				<commonality>80</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="SeaIce"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_KindredDickVirus</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+				</value>
 			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="AridShrubland"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
-				<commonality>100</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="AridShrubland"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_KindredDickVirus</diseaseInc>
+						<commonality>100</commonality>
+					</li>
+				</value>
 			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="Desert"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
-				<commonality>80</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="Desert"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_KindredDickVirus</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+				</value>
 			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="ExtremeDesert"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_KindredDickVirus</diseaseInc>
-				<commonality>80</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="ExtremeDesert"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_KindredDickVirus</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+				</value>
 			</li>
-		</value>
-	</Operation>
 
+		</operations>
+	</Operation>
 </Patch>
 
