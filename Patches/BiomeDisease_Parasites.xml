@@ -1,79 +1,81 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="TemperateForest"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_LungWorms</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_HeartWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_BrainWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+				</value>
+			</li>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="TemperateForest"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>50</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="TropicalRainforest"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_LungWorms</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_HeartWorm</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_BrainWorm</diseaseInc>
+						<commonality>80</commonality>
+					</li>
+				</value>
 			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="TropicalRainforest"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>80</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="BorealForest"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_LungWorms</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_HeartWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_BrainWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+				</value>
 			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>80</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>80</commonality>
-			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="BorealForest"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>50</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="Tundra"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_LungWorms</diseaseInc>
+						<commonality>30</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_HeartWorm</diseaseInc>
+						<commonality>30</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_BrainWorm</diseaseInc>
+						<commonality>30</commonality>
+					</li>
+				</value>
 			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="Tundra"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>30</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>30</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>30</commonality>
-			</li>
-		</value>
-	</Operation>
-
-	<!--Operation Class="PatchOperationAdd">
+			<!--Operation Class="PatchOperationAdd">
 		<xpath>Defs/BiomeDef[defName="IceSheet"]/diseases</xpath>
 		<value>
 			<li>
@@ -89,9 +91,9 @@
 				<commonality>50</commonality>
 			</li>
 		</value>
-	</Operation>
+	</li>
 
-	<Operation Class="PatchOperationAdd">
+	<li Class="PatchOperationAdd">
 		<xpath>Defs/BiomeDef[defName="SeaIce"]/diseases</xpath>
 		<value>
 			<li>
@@ -109,59 +111,61 @@
 		</value>
 	</Operation-->
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="AridShrubland"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>50</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="AridShrubland"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_LungWorms</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_HeartWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_BrainWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+				</value>
 			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="Desert"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>50</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="Desert"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_LungWorms</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_HeartWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_BrainWorm</diseaseInc>
+						<commonality>50</commonality>
+					</li>
+				</value>
 			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-		</value>
-	</Operation>
 
-	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="ExtremeDesert"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>40</commonality>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="ExtremeDesert"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_LungWorms</diseaseInc>
+						<commonality>40</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_HeartWorm</diseaseInc>
+						<commonality>40</commonality>
+					</li>
+					<li>
+						<diseaseInc>Disease_BrainWorm</diseaseInc>
+						<commonality>40</commonality>
+					</li>
+				</value>
 			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>40</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>40</commonality>
-			</li>
-		</value>
-	</Operation>
 
+		</operations>
+	</Operation>
 </Patch>
 
