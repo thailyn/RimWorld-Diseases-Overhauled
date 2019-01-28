@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="TemperateForest"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="TropicalRainforest"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="BorealForest"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="Tundra"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="IceSheet"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="SeaIce"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="AridShrubland"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="Desert"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/BiomeDef[defName="ExtremeDesert"]/diseases</xpath>
+				<value>
+					<li>
+						<diseaseInc>Disease_CommonCold</diseaseInc>
+						<commonality>70</commonality>
+					</li>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>
+

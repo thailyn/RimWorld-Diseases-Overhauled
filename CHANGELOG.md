@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.7.0
+
+- Support latest multi-version support changes (#29)
+
 ## Version 1.6.2
 
 - Updated in game mod description
