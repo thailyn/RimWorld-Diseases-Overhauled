@@ -4,7 +4,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="PatchOperationAdd">
-				<xpath>Defs/BiomeDef[defName="TemperateForest" or defName="BorealForest" or defName="AridShrubland" or defName="Desert"]/diseases</xpath>
+				<xpath>Defs/BiomeDef[defName="TemperateForest" or defName="TemperateSwamp" or defName="BorealForest" or defName="AridShrubland" or defName="Desert"]/diseases</xpath>
 				<value>
 					<li>
 						<diseaseInc>Disease_LungWorms</diseaseInc>
@@ -71,41 +71,6 @@
 					</li>
 				</value>
 			</li>
-			<!--Operation Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="IceSheet"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-		</value>
-	</li>
-
-	<li Class="PatchOperationAdd">
-		<xpath>Defs/BiomeDef[defName="SeaIce"]/diseases</xpath>
-		<value>
-			<li>
-				<diseaseInc>Disease_LungWorms</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_HeartWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-			<li>
-				<diseaseInc>Disease_BrainWorm</diseaseInc>
-				<commonality>50</commonality>
-			</li>
-		</value>
-	</Operation-->
 		</operations>
 	</Operation>
 </Patch>
