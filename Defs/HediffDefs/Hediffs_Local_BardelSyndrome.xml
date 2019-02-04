@@ -10,9 +10,6 @@
 		<maxSeverity>1.0</maxSeverity>
 		<tendable>true</tendable>
 		<comps>
-			<!--li Class="HediffCompProperties_SeverityPerDay">
-				<severityPerDay>0.2</severityPerDay>
-			</li-->
 			<li Class="HediffCompProperties_Immunizable">
 				<severityPerDayNotImmune>0.15</severityPerDayNotImmune>
 				<severityPerDayNotImmuneRandomFactor>

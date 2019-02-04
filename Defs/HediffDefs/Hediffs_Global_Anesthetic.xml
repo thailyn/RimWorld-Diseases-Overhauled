@@ -8,8 +8,8 @@
 		<comps>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>
-					<min>30000</min>
-					<max>45000</max>
+					<min>30000</min> <!-- 0.5 days -->
+					<max>45000</max> <!-- 0.75 days -->
 				</disappearsAfterTicks>
 			</li>
 		</comps>
