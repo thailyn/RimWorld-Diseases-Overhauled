@@ -46,7 +46,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<baseTendDurationHours>120</baseTendDurationHours>
+				<baseTendDurationHours>60</baseTendDurationHours>
 				<disappearsAtTotalTendQuality>5</disappearsAtTotalTendQuality>
 			</li>
 		</comps>
@@ -86,7 +86,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<baseTendDurationHours>120</baseTendDurationHours>
+				<baseTendDurationHours>60</baseTendDurationHours>
 				<disappearsAtTotalTendQuality>5</disappearsAtTotalTendQuality>
 			</li>
 		</comps>
@@ -116,7 +116,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<baseTendDurationHours>120</baseTendDurationHours>
+				<baseTendDurationHours>60</baseTendDurationHours>
 				<disappearsAtTotalTendQuality>5</disappearsAtTotalTendQuality>
 			</li>
 		</comps>
@@ -149,7 +149,7 @@
 		<tendable>true</tendable>
 		<comps>
 			<li Class="HediffCompProperties_TendDuration">
-				<baseTendDurationHours>120</baseTendDurationHours>
+				<baseTendDurationHours>60</baseTendDurationHours>
 				<disappearsAtTotalTendQuality>5</disappearsAtTotalTendQuality>
 			</li>
 		</comps>

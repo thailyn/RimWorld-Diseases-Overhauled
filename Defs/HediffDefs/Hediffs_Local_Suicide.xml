@@ -11,8 +11,8 @@
 		<comps>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>
-					<min>120000</min>
-					<max>300000</max>
+					<min>60000</min> <!-- 1 day -->
+					<max>300000</max> <!-- 5 day -->
 				</disappearsAfterTicks>
 			</li>
 			<li Class="HediffCompProperties_Immunizable">
@@ -87,8 +87,8 @@
 		<comps>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>
-					<min>30000</min>
-					<max>60000</max>
+					<min>30000</min> <!-- 0.5 days -->
+					<max>60000</max> <!-- 1 day -->
 				</disappearsAfterTicks>
 			</li>
 		</comps>

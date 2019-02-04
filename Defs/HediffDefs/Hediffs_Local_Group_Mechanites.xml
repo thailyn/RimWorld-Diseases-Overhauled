@@ -12,8 +12,8 @@
 		<comps>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>
-					<min>900000</min>
-					<max>3600000</max>
+					<min>900000</min> <!-- 15 days / 1 Quadrum -->
+					<max>3600000</max> <!-- 60 days / 1 Year -->
 				</disappearsAfterTicks>
 			</li>
 			<li Class="HediffCompProperties_TendDuration">

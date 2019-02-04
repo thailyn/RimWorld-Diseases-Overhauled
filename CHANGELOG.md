@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 1.8.0
+
+- Changed durations of unease (#34)
+- Changed durations of suicide preparations (#34)
+- Lowered tend durations of parasites (#34)
+
 ## Version 1.7.0
 
 - Support latest multi-version support changes (#29)
