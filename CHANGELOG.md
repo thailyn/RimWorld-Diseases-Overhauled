@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.8.1
+
+- Some diseases can now appear in tropical swamps (#36)
+- Some diseases can now appear in cold bogs (#36)
+
 ## Version 1.8.0
 
 - Changed durations of unease (#34)
