@@ -4,7 +4,7 @@
 		<success>Always</success>
 		<operations>
 			<li Class="PatchOperationAdd">
-				<xpath>Defs/BiomeDef[defName="TemperateForest" or defName="TemperateSwamp" or defName="BorealForest" or defName="AridShrubland" or defName="Desert"]/diseases</xpath>
+				<xpath>Defs/BiomeDef[defName="TemperateForest" or defName="TemperateSwamp" or defName="BorealForest" or defName="ColdBog" or defName="AridShrubland" or defName="Desert"]/diseases</xpath>
 				<value>
 					<li>
 						<diseaseInc>Disease_LungWorms</diseaseInc>
@@ -21,7 +21,7 @@
 				</value>
 			</li>
 			<li Class="PatchOperationAdd">
-				<xpath>Defs/BiomeDef[defName="TropicalRainforest"]/diseases</xpath>
+				<xpath>Defs/BiomeDef[defName="TropicalRainforest" or defName="TropicalSwamp"]/diseases</xpath>
 				<value>
 					<li>
 						<diseaseInc>Disease_LungWorms</diseaseInc>
@@ -74,4 +74,3 @@
 		</operations>
 	</Operation>
 </Patch>
-
