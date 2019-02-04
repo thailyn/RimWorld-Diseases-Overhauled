@@ -10,8 +10,8 @@
 		<comps>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>
-					<min>600000</min>
-					<max>2700000</max>
+					<min>120000</min> <!-- 2 days -->
+					<max>840000</max> <!-- 14 days -->
 				</disappearsAfterTicks>
 			</li>
 			<li Class="HediffCompProperties_SeverityPerDay">
