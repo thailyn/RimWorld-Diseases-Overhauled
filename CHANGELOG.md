@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.8.2
+
+- Increased migraine recovery (#38)
+- Increased disease frequencies to A17 values (#39)
+
 ## Version 1.8.1
 
 - Some diseases can now appear in tropical swamps (#36)
