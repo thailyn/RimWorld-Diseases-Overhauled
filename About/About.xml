@@ -2,10 +2,15 @@
 <ModMetaData>
 	<name>Diseases Overhauled</name>
 	<author>Mythos</author>
+	<packageId>Mythos.DiseasesOverhauled</packageId>
 	<url>https://github.com/Mythos/RimWorld-Diseases-Overhauled</url>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
+	<loadAfter>
+		<li>Mythos.ExtendedHumanBodySimulation</li>
+	</loadAfter>
 	<description>Integrates following features into RimWorld:
  - Overhaul of all existing diseases and addition of new ones 
  - Some experimental brain surgery
