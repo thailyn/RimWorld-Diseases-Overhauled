@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>DiseasesOverhauled</identifier>
-    <version>1.8.2</version>
+    <version>1.9.0</version>
+    <targetVersions>
+        <li>1.0.0</li>
+        <li>1.1.0</li>
+    </targetVersions>
     <dependencies>
     </dependencies>
     <incompatibleWith>
@@ -9,7 +13,7 @@
     <loadBefore>
     </loadBefore>
     <loadAfter>
-        <li>1559033367</li> <!-- Extended Human Body Simulation -->
+        <li>1559033367</li>        <!-- Extended Human Body Simulation -->
     </loadAfter>
     <suggests>
     </suggests>

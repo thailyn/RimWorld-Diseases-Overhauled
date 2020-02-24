@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.9.0
+
+- Compatibility with 1.1
+
 ## Version 1.8.2
 
 - Increased migraine recovery (#38)
