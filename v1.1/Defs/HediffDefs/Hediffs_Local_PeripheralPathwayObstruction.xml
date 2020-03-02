@@ -5,6 +5,7 @@
 		<defName>PeripheralPathwayObstruction</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>peripheral pathway obstruction</label>
+		<description>peripheral pathway obstruction</description>
 		<initialSeverity>0.01</initialSeverity>
 		<maxSeverity>1.0</maxSeverity>
 		<scenarioCanAdd>true</scenarioCanAdd>

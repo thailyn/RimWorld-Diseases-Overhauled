@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Tuberculosis</defName>
 		<label>tuberculosis</label>
+		<description>tuberculosis</description>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>
 		<scenarioCanAdd>true</scenarioCanAdd>
@@ -213,6 +214,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>EncapsulatedTuberculosis</defName>
 		<label>encapsulated pathogen</label>
+		<description>encapsulated pathogen</description>
 		<stages>
 			<li>
 				<partEfficiencyOffset>-0.1</partEfficiencyOffset>

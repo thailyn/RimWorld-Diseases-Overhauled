@@ -5,6 +5,7 @@
 		<defName>Psoriasis</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>psoriasis rimothica</label>
+		<description>psoriasis rimothica</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
 			<li>
@@ -56,6 +57,7 @@
 		<defName>PsoriasisInterna</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>psoriasis rim. interna</label>
+		<description>psoriasis rim. interna</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
 			<li>

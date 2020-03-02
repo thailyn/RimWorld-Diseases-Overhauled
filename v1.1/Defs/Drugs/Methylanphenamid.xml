@@ -52,6 +52,7 @@
 		<defName>MethylanphenamidHigh</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>Methylanphenamid</label>
+		<description>Methylanphenamid</description>
 		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>

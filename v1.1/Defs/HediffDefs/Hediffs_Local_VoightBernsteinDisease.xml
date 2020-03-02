@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>VoightBernsteinDisease</defName>
 		<label>Voight-Bernstein disease</label>
+		<description>Voight-Bernstein disease</description>
 		<makesSickThought>true</makesSickThought>
 		<initialSeverity>0.01</initialSeverity>
 		<tendable>true</tendable>
@@ -154,6 +155,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>VoightBernsteinDiseaseTumors</defName>
 		<label>Voight-Bernstein tumor</label>
+		<description>Voight-Bernstein tumor</description>
 		<makesSickThought>true</makesSickThought>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.05</initialSeverity>

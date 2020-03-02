@@ -6,6 +6,7 @@
 		<hediffClass>Hediff_HeartAttack</hediffClass>
 		<defaultLabelColor>(1, 0.2, 0.2)</defaultLabelColor>
 		<label>heart attack</label>
+		<description>A disruption in the heart's normal beating rhythm. Heart attacks can be debilitatingly painful. They can worsen and lead to death, or recover.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.4</initialSeverity>
 		<lethalSeverity>1</lethalSeverity>

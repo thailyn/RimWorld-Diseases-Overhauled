@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Anesthetic</defName>
 		<label>anesthetic</label>
+		<description>Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious.</description>
 		<isBad>false</isBad>
 		<comps>
 			<li Class="HediffCompProperties_Disappears">

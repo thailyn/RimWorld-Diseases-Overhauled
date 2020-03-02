@@ -71,6 +71,7 @@
 		<defName>MortracainHigh</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>Mortracain</label>
+		<description>Mortracain</description>
 		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
@@ -111,6 +112,7 @@
 	<ChemicalDef>
 		<defName>Mortracain</defName>
 		<label>Mortracain</label>
+		<description>Mortracain</description>
 		<addictionHediff>MortracainAddiction</addictionHediff>
 		<toleranceHediff>MortracainTolerance</toleranceHediff>
 		<onGeneratedAddictedToleranceChance>0.5</onGeneratedAddictedToleranceChance>
@@ -138,6 +140,7 @@
 	<HediffDef ParentName="DrugToleranceBase">
 		<defName>MortracainTolerance</defName>
 		<label>Mortracain tolerance</label>
+		<description>Mortracain tolerance</description>
 		<comps>
 			<li Class="HediffCompProperties_SeverityPerDay">
 				<severityPerDay>-0.0135</severityPerDay>
@@ -164,6 +167,7 @@
 		<defName>MortracainAddiction</defName>
 		<hediffClass>Hediff_Addiction</hediffClass>
 		<label>Mortracain addiction</label>
+		<description>Mortracain addiction</description>
 		<causesNeed>Chemical_Mortracain</causesNeed>
 		<comps>
 			<li Class="HediffCompProperties_SeverityPerDay">
