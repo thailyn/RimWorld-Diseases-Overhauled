@@ -58,6 +58,7 @@
 		<defName>VegetableBrothHigh</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>vegetable broth</label>
+		<description>vegetable broth</description>
 		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>

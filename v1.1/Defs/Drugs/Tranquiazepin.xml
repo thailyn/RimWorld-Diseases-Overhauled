@@ -58,6 +58,7 @@
 		<defName>TranquiazepinHigh</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>Tranquiazepin</label>
+		<description>Tranquiazepin</description>
 		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
@@ -122,6 +123,7 @@
 	<ChemicalDef>
 		<defName>Tranquiazepin</defName>
 		<label>Tranquiazepin</label>
+		<description>Tranquiazepin</description>
 		<addictionHediff>TranquiazepinAddiction</addictionHediff>
 		<toleranceHediff>TranquiazepinTolerance</toleranceHediff>
 		<onGeneratedAddictedToleranceChance>0.8</onGeneratedAddictedToleranceChance>
@@ -148,6 +150,7 @@
 	<HediffDef ParentName="DrugToleranceBase">
 		<defName>TranquiazepinTolerance</defName>
 		<label>Tranquiazepin tolerance</label>
+		<description>Tranquiazepin tolerance</description>
 		<comps>
 			<li Class="HediffCompProperties_SeverityPerDay">
 				<severityPerDay>-0.015</severityPerDay>
@@ -173,6 +176,7 @@
 		<defName>TranquiazepinAddiction</defName>
 		<hediffClass>Hediff_Addiction</hediffClass>
 		<label>Tranquiazepin addiction</label>
+		<description>Tranquiazepin addiction</description>
 		<causesNeed>Chemical_Tranquiazepin</causesNeed>
 		<comps>
 			<li Class="HediffCompProperties_SeverityPerDay">

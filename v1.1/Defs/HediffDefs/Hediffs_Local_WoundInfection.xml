@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>WoundInfection</defName>
 		<label>infection</label>
+		<description>infection</description>
     	<labelNoun>an infection</labelNoun>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>

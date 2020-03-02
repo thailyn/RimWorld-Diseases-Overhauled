@@ -4,6 +4,7 @@
 	<HediffDef>
 		<defName>DrugOverdose</defName>
 		<label>drug overdose</label>
+		<description>Generalized toxic effects due to over-concentration of drugs in the bloodstream.</description>
 		<hediffClass>HediffWithComps</hediffClass>
 		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
 		<lethalSeverity>1</lethalSeverity>

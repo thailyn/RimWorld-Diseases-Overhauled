@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Unease</defName>
 		<label>feeling uneasy</label>
+		<description>feeling uneasy</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>0.4</initialSeverity>

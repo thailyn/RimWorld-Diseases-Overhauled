@@ -5,6 +5,7 @@
 		<defName>Stupor</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>stupor</label>
+		<description>stupor</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>

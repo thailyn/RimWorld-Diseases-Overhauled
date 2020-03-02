@@ -5,6 +5,7 @@
 		<defName>Heatstroke</defName>
 		<defaultLabelColor>(0.8, 0.8, 0.35)</defaultLabelColor>
 		<label>heatstroke</label>
+		<description>A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death.</description>
 		<lethalSeverity>1</lethalSeverity>
     	<taleOnVisible>HeatstrokeRevealed</taleOnVisible>
 		<stages>
@@ -129,6 +130,7 @@
 		<defName>Hypothermia</defName>
 		<defaultLabelColor>(0.8, 0.8, 1)</defaultLabelColor>
 		<label>hypothermia</label>
+		<description>Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments.</description>
 		<lethalSeverity>1</lethalSeverity>
     	<taleOnVisible>HypothermiaRevealed</taleOnVisible>
 		<stages>

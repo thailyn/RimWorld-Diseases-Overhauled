@@ -5,6 +5,7 @@
 		<defName>InducedComa2Days</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>induced coma</label>
+		<description>induced coma</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>
@@ -125,6 +126,7 @@
 		<defName>InducedComa5Days</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>induced coma</label>
+		<description>induced coma</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>
@@ -247,6 +249,7 @@
 		<defName>InducedComa15Days</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>induced coma</label>
+		<description>induced coma</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>
@@ -369,6 +372,7 @@
 		<defName>InducedComa30Days</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>induced coma</label>
+		<description>induced coma</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>
@@ -491,6 +495,7 @@
 		<defName>InducedComaForever</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>induced coma</label>
+		<description>induced coma</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>

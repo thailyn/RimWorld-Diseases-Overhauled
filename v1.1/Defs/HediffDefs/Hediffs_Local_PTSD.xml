@@ -5,6 +5,7 @@
 		<defName>PTSD</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>posttraumatic stress disorder</label>
+		<description>posttraumatic stress disorder</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>
