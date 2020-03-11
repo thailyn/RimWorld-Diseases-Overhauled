@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.9.1
+
+- Decreased market values by 90% (#41) (thx to Drawer501 on GitHub)
+
 ## Version 1.9.0
 
 - Compatibility with 1.1
