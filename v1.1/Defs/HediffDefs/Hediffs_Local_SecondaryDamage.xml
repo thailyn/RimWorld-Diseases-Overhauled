@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>SecondaryDamage</defName>
 		<label>secondary damage</label>
+		<description>Can only be caused by other disease to various body parts. May or may not slowly get worse.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">

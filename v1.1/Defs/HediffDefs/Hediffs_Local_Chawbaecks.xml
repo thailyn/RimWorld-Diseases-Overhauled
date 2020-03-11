@@ -5,6 +5,7 @@
 		<defName>Chawbaecks</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>chawbaeck's</label>
+		<description>Slowly advancing sinew contractions. Afflicted hands or feet will someday be unusuable.</description>
 		<initialSeverity>0.01</initialSeverity>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>

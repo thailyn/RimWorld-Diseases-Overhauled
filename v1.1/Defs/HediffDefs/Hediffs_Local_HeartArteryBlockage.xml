@@ -5,6 +5,7 @@
 		<defName>HeartArteryBlockage</defName>
 		<label>artery blockage</label>
 		<labelNoun>an artery blockage</labelNoun>
+		<description>A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<lethalSeverity>1</lethalSeverity>
 		<comps>

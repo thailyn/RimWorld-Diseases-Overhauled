@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Dementia</defName>
 		<label>dementia</label>
+		<description>Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">

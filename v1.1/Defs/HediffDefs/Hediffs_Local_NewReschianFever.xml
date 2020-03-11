@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>NewReschianFever</defName>
 		<label>New Reschian fever</label>
+		<description>Will decrease your pawns max. comfortable temperature and increase their psychic sensitivity as it increases in severity. Can cause eyesight loss, necrosis, migraine or (at its last stage) alzheimer's.</description>
 		<makesSickThought>true</makesSickThought>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<tendable>true</tendable>

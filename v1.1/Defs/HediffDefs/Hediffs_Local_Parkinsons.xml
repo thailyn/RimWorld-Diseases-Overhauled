@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Parkinsons</defName>
 		<label>parkinson's</label>
+		<description>Parkinson's disease (PD), or simply Parkinson's, is a long-term degenerative disorder of the central nervous system that mainly affects the motor system.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">

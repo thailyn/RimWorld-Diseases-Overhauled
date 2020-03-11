@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.9.1
+
+- Decreased market values for items added by this mod (#41) (thx to Drawer501 on GitHub)
+- Added missing descriptions for most diseases either from Wikipedia, the Readme on GitHub or other places on the internet
+
 ## Version 1.9.0
 
 - Compatibility with 1.1

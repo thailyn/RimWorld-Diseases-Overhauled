@@ -5,6 +5,8 @@
 		<defName>Carcinoma</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>carcinoma</label>
+		<description>A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.
+\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma.</description>
 		<labelNoun>a carcinoma</labelNoun>
 		<initialSeverity>0.01</initialSeverity>
 		<chanceToCauseNoPain>0.3</chanceToCauseNoPain>

@@ -5,6 +5,7 @@
 		<defName>ComaTimed</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>coma</label>
+		<description>A coma is a deep state of prolonged unconsciousness in which a person cannot be awakened; fails to respond normally to painful stimuli, light, or sound; lacks a normal wake-sleep cycle; and does not initiate voluntary actions.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>
@@ -120,6 +121,7 @@
 		<defName>ComaForever</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>coma</label>
+		<description>A coma is a deep state of prolonged unconsciousness in which a person cannot be awakened; fails to respond normally to painful stimuli, light, or sound; lacks a normal wake-sleep cycle; and does not initiate voluntary actions.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>

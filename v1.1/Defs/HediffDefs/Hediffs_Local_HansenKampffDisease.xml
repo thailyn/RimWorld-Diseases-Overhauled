@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>HansenKampffDisease</defName>
 		<label>Hansen-Kampff disease</label>
+		<description>Leprosy, also known as Hansen's disease (HD), is a long-term infection by the bacteria Mycobacterium leprae or Mycobacterium lepromatosis.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">

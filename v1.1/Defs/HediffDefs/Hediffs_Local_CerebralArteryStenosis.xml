@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>CerebralArteryStenosis</defName>
 		<label>artery blockage</label>
+		<description>When an artery inside the skull becomes blocked by plaque or disease, it is called cerebral artery stenosis. Arteries anywhere in the body can become blocked.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<lethalSeverity>1</lethalSeverity>
 		<comps>

@@ -5,6 +5,7 @@
 		<defName>Appendicitis</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>acute appendicitis</label>
+		<description>Appendicitis is inflammation of the appendix.</description>
 		<lethalSeverity>1</lethalSeverity>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<makesSickThought>true</makesSickThought>

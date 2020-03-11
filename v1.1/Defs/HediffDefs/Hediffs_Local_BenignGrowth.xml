@@ -5,6 +5,7 @@
 		<defName>BenignGrowth</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>benign growth</label>
+		<description>A benign tumor is a mass of cells (tumor) that lacks the ability to either invade neighboring tissue or metastasize (spread throughout the body).</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.1</initialSeverity>
 		<chanceToCauseNoPain>0.3</chanceToCauseNoPain>

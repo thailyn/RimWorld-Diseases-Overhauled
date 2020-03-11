@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Plague</defName>
 		<label>plague</label>
+		<description>Plague is an infectious disease caused by the bacterium Yersinia pestis.</description>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>
 		<tendable>true</tendable>
@@ -323,6 +324,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>EncapsulatedPlague</defName>
 		<label>encapsulated pathogen</label>
+		<description>Carries the pathogen, which can cause the disease to break out at any time.</description>
 		<stages>
 			<li>
 				<partEfficiencyOffset>-0.1</partEfficiencyOffset>

@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>KindredDickVirus</defName>
 		<label>Kindred-Dick virus</label>
+		<description>Can cause dermal irritations (scratches), inflammations and at later stages secondary damage to various body parts.</description>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>
 		<tendable>true</tendable>

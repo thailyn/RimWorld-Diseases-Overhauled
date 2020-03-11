@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Necrosis</defName>
 		<label>necrosis</label>
+		<description>Necrosis is a form of cell injury which results in the premature death of cells in living tissue by autolysis.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<makesSickThought>true</makesSickThought>
 		<initialSeverity>0.01</initialSeverity>

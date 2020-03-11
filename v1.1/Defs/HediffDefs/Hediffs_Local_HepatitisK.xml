@@ -5,6 +5,7 @@
 		<defName>HepatitisK</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>Hepatitis K</label>
+		<description>Evolved chronic hepatic inflammation. Fluctuates between extreme defensive immune response, which cause pain, hunger and exhaust your pawn, and extreme virus activity, that can cause cirrhosis, carcinoma and inflammations.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.35</initialSeverity>
 		<minSeverity>0.001</minSeverity>

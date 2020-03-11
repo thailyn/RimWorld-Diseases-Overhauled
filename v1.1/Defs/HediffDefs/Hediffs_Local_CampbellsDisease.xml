@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>CampbellsDisease</defName>
 		<label>Campbell's disease</label>
+		<description>A moderate mental long-term condition, that can be treated to be hold at bay. Reaches, if not properly treated, from a stage of symptom freedom, via a stage of cognitive restraints, via hallucinations, via delusions, through to a catatonic stage.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.3</initialSeverity>
 		<minSeverity>0.001</minSeverity>

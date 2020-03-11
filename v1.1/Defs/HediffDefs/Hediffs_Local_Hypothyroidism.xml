@@ -5,6 +5,7 @@
 		<defName>Hypothyroidism</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>hypothyroidism</label>
+		<description>Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
 			<li>

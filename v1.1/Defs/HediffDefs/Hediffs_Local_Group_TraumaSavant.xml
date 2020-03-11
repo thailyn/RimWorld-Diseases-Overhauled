@@ -6,6 +6,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -34,6 +35,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -63,6 +65,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -91,6 +94,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -119,6 +123,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -147,6 +152,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -174,6 +180,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -204,6 +211,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>trauma savant</label>
+		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>

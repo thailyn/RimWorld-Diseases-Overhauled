@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>StomachUlcer</defName>
 		<label>stomach ulcer</label>
+		<description>Stomach ulcers, which are also known as gastric ulcers, are painful sores in the stomach lining. Stomach ulcers are a type of peptic ulcer disease.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<minSeverity>0.001</minSeverity>

@@ -214,7 +214,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>EncapsulatedTuberculosis</defName>
 		<label>encapsulated pathogen</label>
-		<description>encapsulated pathogen</description>
+		<description>Carries the pathogen, which can cause the disease to break out at any time.</description>
 		<stages>
 			<li>
 				<partEfficiencyOffset>-0.1</partEfficiencyOffset>

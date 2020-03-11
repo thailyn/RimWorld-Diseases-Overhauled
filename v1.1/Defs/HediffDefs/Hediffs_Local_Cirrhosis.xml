@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Cirrhosis</defName>
 		<label>Cirrhosis</label>
+		<description>A degenerative liver disease caused by excessive alcohol consumption.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">

@@ -5,6 +5,7 @@
 		<defName>Frail</defName>
 		<label>frail</label>
     	<labelNoun>frailty</labelNoun>
+		<description>Generalized loss of muscle and bone density.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">

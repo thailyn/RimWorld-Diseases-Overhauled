@@ -5,6 +5,7 @@
 		<defName>Toothache</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>toothache</label>
+		<description>Toothache, also known as dental pain, is pain in the teeth or their supporting structures, caused by dental diseases or pain referred to the teeth by non-dental diseases.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>
