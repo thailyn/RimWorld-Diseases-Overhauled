@@ -14,7 +14,7 @@
 		<rotatable>false</rotatable>
 		<statBases>
 			<WorkToMake>600</WorkToMake>
-			<MarketValue>25</MarketValue>
+			<MarketValue>7</MarketValue>
 			<Mass>0.4</Mass>
 		</statBases>
 		<ingestible>
