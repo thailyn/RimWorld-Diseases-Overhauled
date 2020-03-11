@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>BloodCancer</defName>
 		<label>blood cancer</label>
+		<description>Blood cancers affect blood cells and bone marrow. These cancers change the way blood cells behave and how well they work.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.3</initialSeverity>
 		<lethalSeverity>1.0</lethalSeverity>

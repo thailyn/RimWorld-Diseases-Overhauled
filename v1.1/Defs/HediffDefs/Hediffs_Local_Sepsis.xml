@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Sepsis</defName>
 		<label>sepsis</label>
+		<description>Sepsis is a life-threatening condition that arises when the body's response to infection causes injury to its tissues and organs.</description>
 		<makesSickThought>true</makesSickThought>
 		<initialSeverity>0.01</initialSeverity>
 		<maxSeverity>1.0</maxSeverity>

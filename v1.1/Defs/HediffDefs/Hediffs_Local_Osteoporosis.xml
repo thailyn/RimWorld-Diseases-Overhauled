@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Osteoporosis</defName>
 		<label>osteoporosis</label>
+		<description>Osteoporosis is a disease in which bone weakening increases the risk of a broken bone.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<comps>

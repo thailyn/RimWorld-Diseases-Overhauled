@@ -5,6 +5,7 @@
 		<defName>SuicidePreparation</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>suicide preparations</label>
+		<description>Suicide is the act of intentionally causing one's own death.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>0.1</initialSeverity>
@@ -84,6 +85,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>suicide attempt</label>
+		<description>Suicide is the act of intentionally causing one's own death.</description>
 		<comps>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>
@@ -120,6 +122,7 @@
 		<defName>SuicideStomach</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>suicide (poisoned)</label>
+		<description>Suicide is the act of intentionally causing one's own death.</description>
 		<stages>
 			<li>
 				<capMods>
@@ -136,6 +139,7 @@
 		<defName>SuicideLung</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>suicide (suffocated)</label>
+		<description>Suicide is the act of intentionally causing one's own death.</description>
 		<stages>
 			<li>
 				<capMods>
@@ -152,6 +156,7 @@
 		<defName>SuicideHeart</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>suicide (slit wrists and ankles)</label>
+		<description>Suicide is the act of intentionally causing one's own death.</description>
 		<stages>
 			<li>
 				<capMods>
@@ -168,6 +173,7 @@
 		<defName>SuicideBrain</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>suicide (headshot)</label>
+		<description>Suicide is the act of intentionally causing one's own death.</description>
 		<stages>
 			<li>
 				<capMods>

@@ -6,6 +6,7 @@
 		<hediffClass>Hediff_HeartAttack</hediffClass>
 		<defaultLabelColor>(1, 0.2, 0.2)</defaultLabelColor>
 		<label>stroke</label>
+		<description>A stroke is a medical condition in which poor blood flow to the brain results in cell death.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.4</initialSeverity>
 		<lethalSeverity>1</lethalSeverity>

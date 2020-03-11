@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Inflammation</defName>
 		<label>inflammation</label>
+		<description>Inflammation is part of the complex biological response of body tissues to harmful stimuli, such as pathogens, damaged cells, or irritants, and is a protective response involving immune cells, blood vessels, and molecular mediators. The function of inflammation is to eliminate the initial cause of cell injury, clear out necrotic cells and tissues damaged from the original insult and the inflammatory process, and initiate tissue repair.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>

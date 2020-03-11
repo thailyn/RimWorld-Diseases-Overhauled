@@ -4,6 +4,7 @@
 	<HediffDef>
 		<defName>Malnutrition</defName>
 		<label>malnutrition</label>
+		<description>Malnutrition is a condition that results from eating a diet in which one or more nutrients are either not enough or are too much such that the diet causes health problems.</description>
 		<lethalSeverity>1</lethalSeverity>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>

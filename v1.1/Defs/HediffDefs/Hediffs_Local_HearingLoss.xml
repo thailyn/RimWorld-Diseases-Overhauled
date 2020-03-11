@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>HearingLoss</defName>
 		<label>hearing loss</label>
+		<description>Inability to hear quiet sounds due to degradation of hair cells in the cochlea.</description>
     	<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>

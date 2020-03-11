@@ -5,6 +5,7 @@
 		<defName>Dead</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>lethal brain damage</label>
+		<description>Death is the permanent cessation of all biological functions that sustain a living organism.</description>
 		<stages>
 			<li>
 				<capMods>

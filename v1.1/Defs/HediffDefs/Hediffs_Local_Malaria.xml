@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Malaria</defName>
 		<label>malaria (P. rimparum)</label>
+		<description>An infectious disease caused by a mosquito-borne parasite.</description>
 		<lethalSeverity>1</lethalSeverity>
 		<makesSickThought>true</makesSickThought>
 		<scenarioCanAdd>true</scenarioCanAdd>
@@ -196,6 +197,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>EncapsulatedMalaria</defName>
 		<label>encapsulated pathogen</label>
+		<description>Carries the pathogen, which can cause the disease to break out at any time.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
 			<li>

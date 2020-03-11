@@ -5,6 +5,7 @@
 		<defName>Cataract</defName>
 		<label>eyesight loss</label>
 		<labelNoun>a cataract</labelNoun>
+		<description>Milky-looking opacity in the eye. Cataracts impair vision.</description>
 		<cureAllAtOnceIfCuredByItem>true</cureAllAtOnceIfCuredByItem>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>

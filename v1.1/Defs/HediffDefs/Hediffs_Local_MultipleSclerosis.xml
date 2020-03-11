@@ -5,6 +5,7 @@
 		<defName>MultipleSclerosis</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>multiple sclerosis</label>
+		<description>Multiple sclerosis (MS) is a demyelinating disease in which the insulating covers of nerve cells in the brain and spinal cord are damaged.</description>
 		<initialSeverity>0.01</initialSeverity>
 		<lethalSeverity>1.00</lethalSeverity>
 		<scenarioCanAdd>true</scenarioCanAdd>

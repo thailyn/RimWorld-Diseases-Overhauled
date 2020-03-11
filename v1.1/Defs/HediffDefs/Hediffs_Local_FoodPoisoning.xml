@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>FoodPoisoning</defName>
 		<label>food poisoning</label>
+		<description>Foodborne illness (also foodborne disease and colloquially referred to as food poisoning) is any illness resulting from the spoilage of contaminated food, pathogenic bacteria, viruses, or parasites that contaminate food, as well as toxins such as poisonous mushrooms and various species of beans that have not been boiled for at least 10 minutes.</description>
 		<makesSickThought>true</makesSickThought>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>1</initialSeverity>

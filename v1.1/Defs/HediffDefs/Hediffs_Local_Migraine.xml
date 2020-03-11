@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Migraine</defName>
 		<label>migraine</label>
+		<description>A migraine is a primary headache disorder characterized by recurrent headaches that are moderate to severe.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<minSeverity>0.001</minSeverity>

@@ -6,6 +6,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>brain worm</label>
+		<description>An evolved version of the measly tapeworm. Can cause dementia, central pathway impairments, coma and/or secondary brain damage.</description>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>
 		<comps>
@@ -42,6 +43,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>heart worm</label>
+		<description>Dirofilaria immitis, also known as heartworm or dog heartworm, is a parasitic roundworm that is a type of filarial worm, a small thread-like worm, that causes dirofilariasis. It is spread from host to host through the bites of mosquitoes. The definitive host is the dog, but it can also infect cats, wolves, coyotes, jackals, foxes, and other animals, such as ferrets, bears, seals, sea lions and, under rare circumstances, humans.</description>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>
 		<comps>
@@ -82,6 +84,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>lung worms</label>
+		<description>Can cause secondary damage to the lung.</description>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>
 		<comps>
@@ -112,6 +115,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>gut worms</label>
+		<description>Parasitic worms in the gut. They cause vomiting. They also consuming the victim's food, which increases hunger.</description>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>
 		<comps>
@@ -145,6 +149,7 @@
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<label>muscle parasites</label>
+		<description>Parasitic creatures in the muscles. These cause weakness and a lack of coordination.</description>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>
 		<comps>
@@ -186,6 +191,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>EncapsulatedMuscleParasites</defName>
 		<label>encapsulated pathogen</label>
+		<description>Carries the pathogen, which can cause the disease to break out at any time.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
 			<li>

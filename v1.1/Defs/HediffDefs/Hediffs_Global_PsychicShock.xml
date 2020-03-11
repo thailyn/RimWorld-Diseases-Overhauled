@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>PsychicShock</defName>
 		<label>psychic shock</label>
+		<description>A state of mental shock which leads to a total inability to function. The victim collapses, effectively unconscious.</description>
 		<comps>
 			<li Class="HediffCompProperties_Disappears">
 				<disappearsAfterTicks>

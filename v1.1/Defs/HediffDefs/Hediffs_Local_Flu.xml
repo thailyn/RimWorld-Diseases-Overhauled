@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>Flu</defName>
 		<label>flu</label>
+		<description>Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<makesSickThought>true</makesSickThought>
 		<lethalSeverity>1</lethalSeverity>

@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>CommonCold</defName>
 		<label>common cold</label>
+		<description>The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the nose.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<makesSickThought>true</makesSickThought>
 		<initialSeverity>1</initialSeverity>

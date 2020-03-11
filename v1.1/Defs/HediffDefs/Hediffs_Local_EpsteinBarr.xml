@@ -5,6 +5,7 @@
 		<defName>EpsteinBarrVirus</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>Epstein-Barr virus, type C</label>
+		<description>The Epstein–Barr virus (EBV), formally called Human gammaherpesvirus 4, is one of the nine known human herpesvirus types in the herpes family, and is one of the most common viruses in humans.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.00</maxSeverity>
 		<comps>

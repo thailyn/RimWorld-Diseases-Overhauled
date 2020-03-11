@@ -5,6 +5,7 @@
 		<defName>BadBack</defName>
 		<label>bad back</label>
     	<labelNoun>a bad back</labelNoun>
+		<description>Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<initialSeverity>0.001</initialSeverity>
 		<comps>

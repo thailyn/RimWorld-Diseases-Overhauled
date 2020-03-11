@@ -4,6 +4,7 @@
 	<HediffDef ParentName="InfectionBase">
 		<defName>SleepingSickness</defName>
 		<label>sleeping sickness</label>
+		<description>African trypanosomiasis, also known as African sleeping sickness or simply sleeping sickness, is an insect-borne parasitic disease of humans and other animals.</description>
 		<lethalSeverity>1</lethalSeverity>
 		<makesSickThought>true</makesSickThought>
 		<tendable>true</tendable>

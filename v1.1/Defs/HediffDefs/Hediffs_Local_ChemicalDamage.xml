@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>ChemicalDamageModerate</defName>
 		<label>chemical damage</label>
+		<description>Chemical damage at the cellular level.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">
@@ -36,6 +37,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>ChemicalDamageSevere</defName>
 		<label>chemical damage</label>
+		<description>Chemical damage at the cellular level.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<comps>
 			<li Class="HediffCompProperties_Immunizable">

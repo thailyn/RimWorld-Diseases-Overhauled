@@ -4,6 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>Asthma</defName>
 		<label>asthma</label>
+		<description>A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms.</description>
 		<initialSeverity>0.001</initialSeverity>
 		<lethalSeverity>0.9</lethalSeverity>
 		<minSeverity>0.001</minSeverity>
