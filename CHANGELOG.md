@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.9.2
+
+- Add description to Stupor
+
 ## Version 1.9.1
 
 - Decreased market values for items added by this mod (#41) (thx to Drawer501 on GitHub)
