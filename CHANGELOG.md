@@ -3,6 +3,8 @@
 ## Version 1.9.2
 
 - Add description to Stupor
+- Replaced "NAME" with "[PAWN_nameDef]" in letters (#44)
+- Replaced "HIM" with "[PAWN_objective]" in letters (#44)
 
 ## Version 1.9.1
 
