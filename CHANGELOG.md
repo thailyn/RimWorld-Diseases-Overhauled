@@ -5,6 +5,7 @@
 - Add description to Stupor
 - Replaced "NAME" with "[PAWN_nameDef]" in letters (#44)
 - Replaced "HIM" with "[PAWN_objective]" in letters (#44)
+- Created "DO_MechanitesBase" to not overwrite "MechanitesBase"
 
 ## Version 1.9.1
 
