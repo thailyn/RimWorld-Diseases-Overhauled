@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.9.2
+
+- Add description to Stupor
+- Replaced "NAME" with "[PAWN_nameDef]" in letters (#44)
+- Replaced "HIM" with "[PAWN_objective]" in letters (#44)
+- Created "DO_MechanitesBase" to not overwrite "MechanitesBase"
+
 ## Version 1.9.1
 
 - Decreased market values for items added by this mod (#41) (thx to Drawer501 on GitHub)

@@ -5,7 +5,7 @@
 		<defName>Stupor</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<label>stupor</label>
-		<description>stupor</description>
+		<description>Stupor is the lack of critical mental function and a level of consciousness wherein an affected person is almost entirely unresponsive and only responds to intense stimuli such as pain.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>1.0</maxSeverity>
 		<initialSeverity>1.0</initialSeverity>
