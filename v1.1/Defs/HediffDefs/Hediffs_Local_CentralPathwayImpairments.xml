@@ -4,7 +4,7 @@
 	<HediffDef ParentName="DiseaseBase">
 		<defName>CentralPathwayImpairments</defName>
 		<label>central pathway impairments</label>
-		<description>A secondary condition, that hinders manipulation and inevitably leads to coma from that your pawn will awake again - within days or years.</description>
+		<description>A secondary condition, that hinders manipulation and inevitably leads to coma from that your pawn will awake again after days or years</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
 			<li>
