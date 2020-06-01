@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.9.3
+
+- Nerfed secondary damage a bit (moderate 30% => 20%, major 50% => 35%, severe 70% => 50%, extreme 90% => 80%)
 ## Version 1.9.2
 
 - Add description to Stupor

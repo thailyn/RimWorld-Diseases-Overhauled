@@ -23,25 +23,25 @@
 			<li>
 				<minSeverity>0.2</minSeverity>
 				<label>moderate</label>
-				<partEfficiencyOffset>-0.3</partEfficiencyOffset>
+				<partEfficiencyOffset>-0.2</partEfficiencyOffset>
 				<painOffset>0.05</painOffset>
 			</li>
 			<li>
 				<minSeverity>0.4</minSeverity>
 				<label>major</label>
-				<partEfficiencyOffset>-0.5</partEfficiencyOffset>
+				<partEfficiencyOffset>-0.35</partEfficiencyOffset>
 				<painOffset>0.1</painOffset>
 			</li>
 			<li>
 				<minSeverity>0.6</minSeverity>
 				<label>severe</label>
-				<partEfficiencyOffset>-0.7</partEfficiencyOffset>
+				<partEfficiencyOffset>-0.5</partEfficiencyOffset>
 				<painOffset>0.15</painOffset>
 			</li>
 			<li>
 				<minSeverity>0.8</minSeverity>
 				<label>extreme</label>
-				<partEfficiencyOffset>-0.9</partEfficiencyOffset>
+				<partEfficiencyOffset>-0.8</partEfficiencyOffset>
 				<painOffset>0.2</painOffset>
 			</li>
 		</stages>
