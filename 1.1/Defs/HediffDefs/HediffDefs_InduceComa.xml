@@ -148,7 +148,7 @@
 				<label>awakening</label>
 				<minSeverity>0.0</minSeverity>
 				<painFactor>0.05</painFactor>
-				<hungerRateFactorOffset>0.9</hungerRateFactorOffset>
+				<hungerRateFactor>0.9</hungerRateFactor>
 				<capMods>
 					<li>
 						<capacity>Consciousness</capacity>
@@ -196,7 +196,7 @@
 			<li>
 				<minSeverity>0.225</minSeverity>
 				<painFactor>0</painFactor>
-				<hungerRateFactorOffset>0.9</hungerRateFactorOffset>
+				<hungerRateFactor>0.9</hungerRateFactor>
 				<label>approx. five days</label>
 				<capMods>
 					<li>
@@ -271,7 +271,7 @@
 				<label>awakening</label>
 				<minSeverity>0.0</minSeverity>
 				<painFactor>0.05</painFactor>
-				<hungerRateFactorOffset>0.8</hungerRateFactorOffset>
+				<hungerRateFactor>0.8</hungerRateFactor>
 				<capMods>
 					<li>
 						<capacity>Consciousness</capacity>
@@ -319,7 +319,7 @@
 			<li>
 				<minSeverity>0.085</minSeverity>
 				<painFactor>0</painFactor>
-				<hungerRateFactorOffset>0.8</hungerRateFactorOffset>
+				<hungerRateFactor>0.8</hungerRateFactor>
 				<label>approx. one season</label>
 				<capMods>
 					<li>
@@ -394,7 +394,7 @@
 				<label>awakening</label>
 				<minSeverity>0.0</minSeverity>
 				<painFactor>0.05</painFactor>
-				<hungerRateFactorOffset>0.7</hungerRateFactorOffset>
+				<hungerRateFactor>0.7</hungerRateFactor>
 				<capMods>
 					<li>
 						<capacity>Consciousness</capacity>
@@ -442,7 +442,7 @@
 			<li>
 				<minSeverity>0.045</minSeverity>
 				<painFactor>0</painFactor>
-				<hungerRateFactorOffset>0.7</hungerRateFactorOffset>
+				<hungerRateFactor>0.7</hungerRateFactor>
 				<label>approx. half a year</label>
 				<capMods>
 					<li>
@@ -517,7 +517,7 @@
 				<label>awakening</label>
 				<minSeverity>0.0</minSeverity>
 				<painFactor>0.05</painFactor>
-				<hungerRateFactorOffset>0.65</hungerRateFactorOffset>
+				<hungerRateFactor>0.65</hungerRateFactor>
 				<capMods>
 					<li>
 						<capacity>Consciousness</capacity>
@@ -557,7 +557,7 @@
 			<li>
 				<minSeverity>0.03</minSeverity>
 				<painFactor>0</painFactor>
-				<hungerRateFactorOffset>0.65</hungerRateFactorOffset>
+				<hungerRateFactor>0.65</hungerRateFactor>
 				<label>unknown duration</label>
 				<capMods>
 					<li>
