@@ -18,6 +18,6 @@
     <suggests>
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
-    <manifestUri>https://raw.githubusercontent.com/Mythos/RimWorld-Diseases-Overhauled/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/Mythos/RimWorld-Diseases-Overhauled/releases/latest</downloadUri>
+    <manifestUri>https://raw.githubusercontent.com/Ogliss/RimWorld-Diseases-Overhauled/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/Ogliss/RimWorld-Diseases-Overhauled</downloadUri>
 </Manifest>
