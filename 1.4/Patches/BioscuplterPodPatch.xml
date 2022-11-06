@@ -2,7 +2,7 @@
 
 <Patch>
 	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/HediffDef[defName="BiosculpterPod"]/comps[@Class="CompProperties_BiosculpterPod_HealingCycle"]/conditionsToPossiblyCure</xpath>
+		<xpath>Defs/ThingDef[defName="BiosculpterPod"]/comps/li[@Class="CompProperties_BiosculpterPod_HealingCycle" and compClass="CompBiosculpterPod_MedicCycle"]/conditionsToPossiblyCure</xpath>
 		<value>
 			<li>BrainDamage</li>
 			<li>InducedComa2Days</li>

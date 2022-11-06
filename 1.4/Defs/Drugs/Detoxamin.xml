@@ -64,25 +64,25 @@
 		<stages>
 			<li>
 				<statOffsets>
-					<ToxicSensitivity>-0.2</ToxicSensitivity>
+					<ToxicResistance>-0.2</ToxicResistance>
 				</statOffsets>
 			</li>
 			<li>
 				<minSeverity>0.25</minSeverity>
 				<statOffsets>
-					<ToxicSensitivity>-0.4</ToxicSensitivity>
+					<ToxicResistance>-0.4</ToxicResistance>
 				</statOffsets>
 			</li>
 			<li>
 				<minSeverity>0.5</minSeverity>
 				<statOffsets>
-					<ToxicSensitivity>-0.6</ToxicSensitivity>
+					<ToxicResistance>-0.6</ToxicResistance>
 				</statOffsets>
 			</li>
 			<li>
 				<minSeverity>0.75</minSeverity>
 				<statOffsets>
-					<ToxicSensitivity>-0.8</ToxicSensitivity>
+					<ToxicResistance>-0.8</ToxicResistance>
 				</statOffsets>
 			</li>
 		</stages>
