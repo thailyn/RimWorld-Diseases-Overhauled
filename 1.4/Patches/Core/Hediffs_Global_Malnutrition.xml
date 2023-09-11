@@ -5,15 +5,15 @@
     <operations>
 
       <li Class="PatchOperationConditional">
-        <xpath>/Defs/HediffDef[defName="Malnutrition"]/description</xpath>
+        <xpath>Defs/HediffDef[defName="Malnutrition"]/description</xpath>
         <match Class="PatchOperationReplace">
-          <xpath>/Defs/HediffDef[defName="Malnutrition"]/description</xpath>
+          <xpath>Defs/HediffDef[defName="Malnutrition"]/description</xpath>
           <value>
             <description>Malnutrition is a condition that results from eating a diet in which one or more nutrients are either not enough or are too much such that the diet causes health problems.</description>
           </value>
         </match>
         <nomatch Class="PatchOperationAdd">
-          <xpath>/Defs/HediffDef[defName="Malnutrition"]</xpath>
+          <xpath>Defs/HediffDef[defName="Malnutrition"]</xpath>
           <value>
             <description>Malnutrition is a condition that results from eating a diet in which one or more nutrients are either not enough or are too much such that the diet causes health problems.</description>
           </value>
@@ -22,20 +22,20 @@
 
       <!-- Stage 1: Trivial -->
       <li Class="PatchOperationConditional">
-        <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]</xpath>
+        <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]</xpath>
         <match Class="PatchOperationSequence">
           <operations>
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/hungerRateFactorOffset</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/hungerRateFactorOffset</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/hungerRateFactorOffset</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/hungerRateFactorOffset</xpath>
                 <value>
                   <hungerRateFactorOffset>1.1</hungerRateFactorOffset>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]</xpath>
                 <value>
                   <hungerRateFactorOffset>1.1</hungerRateFactorOffset>
                 </value>
@@ -44,10 +44,10 @@
 
             <!-- Stage 1: Trivial - capMods -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods</xpath>
               <!-- Set the capMods element if it does not exist. -->
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]</xpath>
                 <value>
                   <capMods>
                     <li>
@@ -62,9 +62,9 @@
 
                   <!-- Add or replace a Consciousness capMod adjustment. -->
                   <li Class="PatchOperationConditional">
-                    <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods/li[capacity="Consciousness"]</xpath>
+                    <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods/li[capacity="Consciousness"]</xpath>
                     <match Class="PatchOperationReplace">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods/li[capacity="Consciousness"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods/li[capacity="Consciousness"]</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -73,7 +73,7 @@
                       </value>
                     </match>
                     <nomatch Class="PatchOperationAdd">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="trivial"]/capMods</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -93,20 +93,20 @@
 
       <!-- Stage 2: Minor -->
       <li Class="PatchOperationConditional">
-        <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
+        <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
         <match Class="PatchOperationSequence">
           <operations>
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/socialFightChanceFactor</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/socialFightChanceFactor</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/socialFightChanceFactor</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/socialFightChanceFactor</xpath>
                 <value>
                   <socialFightChanceFactor>2</socialFightChanceFactor>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
                 <value>
                   <socialFightChanceFactor>2</socialFightChanceFactor>
                 </value>
@@ -114,15 +114,15 @@
             </li>
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/hungerRateFactorOffset</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/hungerRateFactorOffset</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/hungerRateFactorOffset</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/hungerRateFactorOffset</xpath>
                 <value>
                   <hungerRateFactorOffset>1.2</hungerRateFactorOffset>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
                 <value>
                   <hungerRateFactorOffset>1.2</hungerRateFactorOffset>
                 </value>
@@ -131,9 +131,9 @@
 
             <!-- Stage 2: Minor - capMods -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods</xpath>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]</xpath>
                 <value>
                   <capMods>
                     <li>
@@ -147,9 +147,9 @@
                 <operations>
 
                   <li Class="PatchOperationConditional">
-                    <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods/li[capacity="Consciousness"]</xpath>
+                    <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods/li[capacity="Consciousness"]</xpath>
                     <match Class="PatchOperationReplace">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods/li[capacity="Consciousness"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods/li[capacity="Consciousness"]</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -158,7 +158,7 @@
                       </value>
                     </match>
                     <nomatch Class="PatchOperationAdd">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="minor"]/capMods</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -178,20 +178,20 @@
 
       <!-- Stage 3: Moderate -->
       <li Class="PatchOperationConditional">
-        <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
+        <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
         <match Class="PatchOperationSequence">
           <operations>
             <!-- Set the minSeverity for this stage to be slightly lower than vanilla. -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/minSeverity</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/minSeverity</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/minSeverity</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/minSeverity</xpath>
                 <value>
                   <minSeverity>0.35</minSeverity>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
                 <value>
                   <minSeverity>0.35</minSeverity>
                 </value>
@@ -199,15 +199,15 @@
             </li>
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/socialFightChanceFactor</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/socialFightChanceFactor</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/socialFightChanceFactor</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/socialFightChanceFactor</xpath>
                 <value>
                   <socialFightChanceFactor>2.5</socialFightChanceFactor>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
                 <value>
                   <socialFightChanceFactor>2.5</socialFightChanceFactor>
                 </value>
@@ -215,15 +215,15 @@
             </li>
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/hungerRateFactorOffset</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/hungerRateFactorOffset</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/hungerRateFactorOffset</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/hungerRateFactorOffset</xpath>
                 <value>
                   <hungerRateFactorOffset>1.3</hungerRateFactorOffset>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
                 <value>
                   <hungerRateFactorOffset>1.3</hungerRateFactorOffset>
                 </value>
@@ -232,9 +232,9 @@
 
             <!-- Stage 3: Moderate - capMods -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods</xpath>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
                 <value>
                   <capMods>
                     <li>
@@ -248,9 +248,9 @@
                 <operations>
 
                   <li Class="PatchOperationConditional">
-                    <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods/li[capacity="Consciousness"]</xpath>
+                    <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods/li[capacity="Consciousness"]</xpath>
                     <match Class="PatchOperationReplace">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods/li[capacity="Consciousness"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods/li[capacity="Consciousness"]</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -259,7 +259,7 @@
                       </value>
                     </match>
                     <nomatch Class="PatchOperationAdd">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]/capMods</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -293,7 +293,7 @@
       <li Class="PatchOperationConditional">
         <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="serious"]</xpath>
         <nomatch Class="PatchOperationConditional">
-          <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
+          <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
           <match Class="PatchOperationInsert">
             <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="moderate"]</xpath>
             <order>Append</order>
@@ -317,21 +317,21 @@
 
       <!-- Stage 5: Severe -->
       <li Class="PatchOperationConditional">
-        <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
+        <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
         <match Class="PatchOperationSequence">
           <operations>
             <!-- Increase the minSeverity for this stage slightly, to make room
                  for the serious stage. -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/minSeverity</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/minSeverity</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/minSeverity</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/minSeverity</xpath>
                 <value>
                   <minSeverity>0.65</minSeverity>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
                 <value>
                   <minSeverity>0.65</minSeverity>
                 </value>
@@ -339,15 +339,15 @@
             </li>
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/socialFightChanceFactor</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/socialFightChanceFactor</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/socialFightChanceFactor</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/socialFightChanceFactor</xpath>
                 <value>
                   <socialFightChanceFactor>3.5</socialFightChanceFactor>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
                 <value>
                   <socialFightChanceFactor>3.5</socialFightChanceFactor>
                 </value>
@@ -355,15 +355,15 @@
             </li>
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/hungerRateFactorOffset</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/hungerRateFactorOffset</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/hungerRateFactorOffset</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/hungerRateFactorOffset</xpath>
                 <value>
                   <hungerRateFactorOffset>1.5</hungerRateFactorOffset>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
                 <value>
                   <hungerRateFactorOffset>1.5</hungerRateFactorOffset>
                 </value>
@@ -372,9 +372,9 @@
 
             <!-- Stage 5: Severe - capMods -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods</xpath>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]</xpath>
                 <value>
                   <capMods>
                     <li>
@@ -388,9 +388,9 @@
                 <operations>
 
                   <li Class="PatchOperationConditional">
-                    <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods/li[capacity="Consciousness"]</xpath>
+                    <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods/li[capacity="Consciousness"]</xpath>
                     <match Class="PatchOperationReplace">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods/li[capacity="Consciousness"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods/li[capacity="Consciousness"]</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -399,7 +399,7 @@
                       </value>
                     </match>
                     <nomatch Class="PatchOperationAdd">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="severe"]/capMods</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -418,7 +418,7 @@
 
       <!-- Stage 6: Extreme -->
       <li Class="PatchOperationConditional">
-        <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
+        <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
         <match Class="PatchOperationSequence">
           <operations>
 
@@ -427,15 +427,15 @@
             -->
 
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hungerRateFactorOffset</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hungerRateFactorOffset</xpath>
               <match Class="PatchOperationReplace">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hungerRateFactorOffset</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hungerRateFactorOffset</xpath>
                 <value>
                   <hungerRateFactorOffset>1.6</hungerRateFactorOffset>
                 </value>
               </match>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
                 <value>
                   <hungerRateFactorOffset>1.6</hungerRateFactorOffset>
                 </value>
@@ -444,9 +444,9 @@
 
             <!-- Stage 6: Extreme - capMods -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods</xpath>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
                 <value>
                   <capMods>
                     <li>
@@ -460,9 +460,9 @@
                 <operations>
 
                   <li Class="PatchOperationConditional">
-                    <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods/li[capacity="Consciousness"]</xpath>
+                    <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods/li[capacity="Consciousness"]</xpath>
                     <match Class="PatchOperationReplace">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods/li[capacity="Consciousness"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods/li[capacity="Consciousness"]</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -471,7 +471,7 @@
                       </value>
                     </match>
                     <nomatch Class="PatchOperationAdd">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/capMods</xpath>
                       <value>
                         <li>
                           <capacity>Consciousness</capacity>
@@ -487,9 +487,9 @@
 
             <!-- Stage 6: Extreme - hediffGivers -->
             <li Class="PatchOperationConditional">
-              <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers</xpath>
+              <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers</xpath>
               <nomatch Class="PatchOperationAdd">
-                <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
+                <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]</xpath>
                 <value>
                   <hediffGivers>
 		    <li Class="HediffGiver_Random">
@@ -513,9 +513,9 @@
               <match Class="PatchOperationSequence">
                 <operations>
                   <li Class="PatchOperationConditional">
-                    <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaForever"]</xpath>
+                    <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaForever"]</xpath>
                     <match Class="PatchOperationReplace">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaForever"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaForever"]</xpath>
                       <value>
 		        <li Class="HediffGiver_Random">
 		          <hediff>ComaForever</hediff>
@@ -527,7 +527,7 @@
                       </value>
                     </match>
                     <nomatch Class="PatchOperationAdd">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaForever"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaForever"]</xpath>
                       <value>
 		        <li Class="HediffGiver_Random">
 		          <hediff>ComaForever</hediff>
@@ -541,9 +541,9 @@
                   </li>
 
                   <li Class="PatchOperationConditional">
-                    <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaTimed"]</xpath>
+                    <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaTimed"]</xpath>
                     <match Class="PatchOperationReplace">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaTimed"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaTimed"]</xpath>
                       <value>
 		        <li Class="HediffGiver_Random">
 		          <hediff>ComaTimed</hediff>
@@ -555,7 +555,7 @@
                       </value>
                     </match>
                     <nomatch Class="PatchOperationAdd">
-                      <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaTimed"]</xpath>
+                      <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="extreme"]/hediffGivers/li[hediff="ComaTimed"]</xpath>
                       <value>
 		        <li Class="HediffGiver_Random">
 		          <hediff>ComaTimed</hediff>
@@ -582,9 +582,9 @@
            anything to it.
       -->
       <li Class="PatchOperationConditional">
-        <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages/li[label="fatal"]</xpath>
+        <xpath>Defs/HediffDef[defName="Malnutrition"]/stages/li[label="fatal"]</xpath>
         <nomatch Class="PatchOperationAdd">
-          <xpath>/Defs/HediffDef[defName="Malnutrition"]/stages</xpath>
+          <xpath>Defs/HediffDef[defName="Malnutrition"]/stages</xpath>
           <value>
             <li>
               <minSeverity>0.95</minSeverity>
