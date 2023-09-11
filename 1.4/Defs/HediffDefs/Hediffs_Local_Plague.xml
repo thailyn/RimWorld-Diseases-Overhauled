@@ -325,6 +325,10 @@
 		<defName>EncapsulatedPlague</defName>
 		<label>encapsulated pathogen (plague)</label>
 		<description>Carries the pathogen, which can cause the disease to break out at any time.</description>
+                <descriptionHyperlinks>
+                  <HediffDef>Plague</HediffDef>
+                  <HediffDef>BenignGrowth</HediffDef>
+                </descriptionHyperlinks>
 		<stages>
 			<li>
 				<partEfficiencyOffset>-0.1</partEfficiencyOffset>

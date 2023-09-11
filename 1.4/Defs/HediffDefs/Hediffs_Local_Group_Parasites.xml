@@ -192,6 +192,9 @@
 		<defName>EncapsulatedMuscleParasites</defName>
 		<label>encapsulated pathogen (muscle parasites)</label>
 		<description>Carries the pathogen, which can cause the disease to break out at any time.</description>
+                <descriptionHyperlinks>
+                  <HediffDef>MuscleParasites</HediffDef>
+                </descriptionHyperlinks>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
 			<li>
