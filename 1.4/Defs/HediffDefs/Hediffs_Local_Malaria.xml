@@ -196,7 +196,7 @@
 
 	<HediffDef ParentName="DiseaseBase">
 		<defName>EncapsulatedMalaria</defName>
-		<label>encapsulated pathogen</label>
+		<label>encapsulated pathogen (malaria)</label>
 		<description>Carries the pathogen, which can cause the disease to break out at any time.</description>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<stages>
