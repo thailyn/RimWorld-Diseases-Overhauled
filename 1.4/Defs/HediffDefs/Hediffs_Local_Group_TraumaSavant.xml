@@ -34,8 +34,8 @@
 		<defName>TraumaSavant1</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
-		<label>trauma savant</label>
-		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
+		<label>trauma savant (variant A)</label>
+		<description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -64,8 +64,8 @@
 		<defName>TraumaSavant2</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
-		<label>trauma savant</label>
-		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
+		<label>trauma savant (variant B)</label>
+		<description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -93,8 +93,8 @@
 		<defName>TraumaSavant3</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
-		<label>trauma savant</label>
-		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
+		<label>trauma savant (variant C)</label>
+		<description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -122,8 +122,8 @@
 		<defName>TraumaSavant4</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
-		<label>trauma savant</label>
-		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
+		<label>trauma savant (variant D)</label>
+		<description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -151,8 +151,8 @@
 		<defName>TraumaSavant5</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
-		<label>trauma savant</label>
-		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
+		<label>trauma savant (variant E)</label>
+		<description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -179,8 +179,8 @@
 		<defName>TraumaSavant6</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
-		<label>trauma savant</label>
-		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
+		<label>trauma savant (variant F)</label>
+		<description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
@@ -210,8 +210,8 @@
 		<defName>TraumaSavant7</defName>
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>true</scenarioCanAdd>
-		<label>trauma savant</label>
-		    <description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
+		<label>trauma savant (variant G)</label>
+		<description>An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak.</description>
 		<stages>
 			<li>
 				<socialFightChanceFactor>0</socialFightChanceFactor>
